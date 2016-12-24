@@ -1,1 +1,64 @@
-theme: jekyll-theme-slate
+title:            Home
+description:      Welcome!
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              https://shubhamagarwal92.github.io
+disqus_shortname: shubhamagarwal92
+
+# Owner/author information
+owner:
+  name:           Shubham Agarwal
+  avatar:         profile.jpg
+  bio:            Currently I am in Grenoble, France
+  email:          shubhamagarwal92@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter: shubhamagarwal92
+  linkedin: shubham-agarwal-4b215146
+  # google_scholar: tT2TC-UAAAAJ
+  github: shubhamagarwal92
+# Analytics and webmaster tools stuff goes here
+# google_analytics: UA-80311021-1
+# google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  # - title: Curriculum
+  #   url: /cv/
+  # - title: Publications
+  #   url: /publications/
+  # - title: Code
+  #   url: /code/
+  - title: Academic activities
+    url: /academic_activities/
+  - title: Contact
+    url: /contact/
+ 
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Paris
+future:      true
+#pygments:    true
+highlighter: rouge
+markdown:    kramdown
+encoding: utf-8
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
