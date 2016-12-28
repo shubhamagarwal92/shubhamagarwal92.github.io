@@ -11,16 +11,19 @@ comments: false
 <section>
 
 Feel free to drop me a mail at:
-shubhamagarwal92@gmail.com
+shubhamagarwal92 AT gmail.com
 <br />
 Will be more than happy to discuss latest advancements in Deep Learning.
 <br />
-###Contact:
+<br />
+<h2>Contact:</h2>
+<br />
 +33 0752446088
 <br />
 +91 8800250530
 <br />
-<h>My temporary residence:</h>
+<br />
+<h2>My temporary residence:</h2>
 <br />
 Residence Houille Blanche
 <br />
