@@ -26,7 +26,9 @@ Thereafter, I worked as a Data Scientist for 2015-16 in TrulyMaldy, India's best
 <br />
 <br />
 
-### Research Interest
+<h> Research Interest </h>
+<h1> Research Interest </h1>
+<h2> Research Interest </h2>
 <strong>Research Interest</strong>
 <br />
 Deep Learning, Machine Learning, Recommendation Systems
