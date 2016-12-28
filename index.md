@@ -21,14 +21,18 @@ I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">
 Thereafter, I worked as a Data Scientist for 2015-16 in TrulyMaldy, India's best online dating app.
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
+### Research Interest
 <strong>Research Interest</strong>
 <br />
 Deep Learning, Machine Learning, Recommendation Systems
 <br />
-<br />
 
-I am particularly interested in Deep Learning and its interdisciplinary applications. Check out my <a href="https://github.com/shubhamagarwal92">github for my latest activity. 
+I am particularly interested in Deep Learning and its interdisciplinary applications. Check out my <a href="https://github.com/shubhamagarwal92">github </a> for my latest activity. 
 </ul>
 
 </section>
