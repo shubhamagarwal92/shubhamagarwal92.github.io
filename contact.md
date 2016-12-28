@@ -12,16 +12,22 @@ comments: false
 
 Feel free to drop me a mail at:
 shubhamagarwal92@gmail.com
-
-Contact:
+<br />
+<br />
+<strong>Contact</strong>:
 +33 0752446088
+<br />
 +91 8800250530
-
-My temporary residence:
-
+<br />
+<strong>My temporary residence</strong>:
 Residence Houille Blanche
+<br />
+90 Avenue Jules Vallès
+<br />
 Grenoble 
+<br />
 France
+<br />
 38100
 </section>
 
