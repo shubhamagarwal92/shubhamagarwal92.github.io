@@ -20,7 +20,8 @@ Will be more than happy to discuss latest advancements in Deep Learning.
 <br />
 +91 8800250530
 <br />
-###My temporary residence:
+<h>My temporary residence:</h>
+<br />
 Residence Houille Blanche
 <br />
 90 Avenue Jules Vallès
