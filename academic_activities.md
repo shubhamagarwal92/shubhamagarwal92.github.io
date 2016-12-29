@@ -28,13 +28,24 @@ comments: false
 New Delhi, India
 <br />
 (July,2015- Aug,2016)
+<br />
+** Worked on Personalised Recommender System
+** Sole ownership of the restaurant recommender system "Datelicious" in PHP
+** Worked extensively with Amazon EC2 and Amazon S3 services
 
 ### Technical Skills
 
-Supervised: Neural Networks , Regression, SVM, Decision Trees and Forests, Naive Bayes, kNN, Collaborative Filtering, Bayesian Models 
-Unsupervised: Autoencoders, Word Embeddings, Topic Models, Dirichlet Process Mixture models, Clustering, PCA, Probabilistic Graphical Models
-Languages: Python, Matlab, C++, R 
-Libraries: theano, keras, numpy, scipy, scikit-learn, pandas, ggplot2
+* Languages: Python, C, C++, Java, MySQL, PL-SQL, PHP
+* Softwares & Pkgs: Spark, Python (sklearn, nltk, pandas, numpy, plotly, bs4), R (dplyr,
+H2O, shiny, caret, ggplot2, reshape2), MATLAB, Data Mining Tools: WEKA, Orange
+* Deep Learning: Theano, Keras, Caffe, H2O, DIGITS (NVIDIA)
+* Experience in SparkSQL,MLLib,PySpark and Scala.
+* Good understanding of core AWS services, uses, and basic architecture. (Amazon EC2 and Amazon S3)
+
+<br />
+## Machine Learning Specific
+* Supervised: Neural Networks, SVM, Random Forests, Naive Bayes, kNN, Collaborative Filtering
+* Unsupervised: Restricted Boltzmann Machine, Word Embeddings, Clustering, PCA
 
 ### Internships
 
@@ -55,3 +66,15 @@ Business Intelligence and Data Warehousing
 <br /> Under the joint supervision of Dr. Cecile Bothorel and Dr. Phillipe Lenca
 <br />(May,2014 - July,2014)
 Community Detection in Social Networks
+
+### Scholastic Achievements
+* Awarded IDEX Scholarship from Universite Grenoble Alpes for MSIAM program 2016-17
+* MHRD Scholar 2014: Awarded by Government of India (GoI) for securing All India
+Rank 27 in the Graduate Aptitude Test in Engineering (GATE) Examination, 2014
+* Secured All India Rank 749 out of 4.5 Lac applicants in IIT-JEE exam held in 2010
+
+### Courses
+
+* Deep Learning: Advanced Learning Models, Object Recognition, Information Retrieval 
+* Machine Learning: Advanced Algorithms for ML & Data Mining, Machine Learning Fundamentals, Fundamentals of probabilistic data mining, Neuro Computing, Soft Computing 
+* Big Data & Parallel programming: Convex & Distributed Optimization, High Performance Computing, Data Management in Large-scale distributed systems, Distributed Systems
