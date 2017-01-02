@@ -15,16 +15,12 @@ shubhamagarwal92 AT gmail.com
 <br />
 Will be more than happy to discuss latest advancements in Deep Learning.
 <br />
-<br />
 <h2>Contact:</h2>
-<br />
 +33 0752446088
 <br />
 +91 8800250530
 <br />
-<br />
 <h2>My temporary residence:</h2>
-<br />
 Residence Houille Blanche
 <br />
 90 Avenue Jules Vallès
