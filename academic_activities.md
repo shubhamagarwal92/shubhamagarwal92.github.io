@@ -11,9 +11,9 @@ comments: false
 ### Teaching Experience
 
 * Second Semester 2014-15: Undergraduate Teaching Assistant for the course [Differential Equations: Theory and Computations](http://web.iitd.ac.in/~vvksrini/Oldhomepage/). 
-<br />Supervisor: [Dr. VVK Srinivas Kumar](web.iitd.ac.in/~vvksrini/)
+<br />Supervisor: [Dr. VVK Srinivas Kumar](http://web.iitd.ac.in/~vvksrini/)
 
-* First Semester 2014-15: Undergraduate Teaching Assistant for the course [System Design Laboratory]. 
+* First Semester 2014-15: Undergraduate Teaching Assistant for the course System Design Laboratory. 
 <br />Supervisor: [Dr. B. Chandra](http://maths.iitd.ac.in/people/faculty/bchandra.php#)
 
 * [Avanti Fellows](http://avantifellows.org/): Mentor 
@@ -26,9 +26,9 @@ comments: false
 
 <strong>Data Scientist </strong> at [TrulyMadly Matchmakers Pvt. Ltd.](http://trulymadly.com/)
 New Delhi, India
-<br />
-(July,2015- Aug,2016)
 <br />Guided by Prof. [Mausam](http://homes.cs.washington.edu/~mausam/)(Dept. of Computer Science, IIT Delhi)
+<br />(July,2015- Aug,2016)
+
 * Experimented with Deep Convolutional Neural Networks (CNNs) in Keras (python) to classify females according to subjective beauty quotient defined by male activity in the dating app
 * Worked on Personalised Recommender System using Random Forests in H20(R)
 * Developed in-house interactive Dashboard using Shiny framework in R for understanding the demographics and activity of users
