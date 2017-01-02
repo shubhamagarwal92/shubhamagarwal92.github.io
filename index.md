@@ -11,7 +11,7 @@ image:
 
 <ul>
 
-I am a <a href="http://msiam.imag.fr">Master </a> student pursuing <strong>Data Science</strong> specialization (2016-17) in MSIAM (Master of Science in Industrial and Applied Mathematics), program jointly offered by Ensimag, Grenoble INP and IM2AG, Universite Grenoble Alpes, Grenoble, France. Currently as second year master student, my stay is supported by the IDEX scholarship. 
+I am a <a href="http://msiam.imag.fr">Master </a> student pursuing <strong>Data Science</strong> specialization (2016-17) in MSIAM (Master of Science in Industrial and Applied Mathematics), program jointly offered by Ensimag, Grenoble INP and IM2AG, Universite Grenoble Alpes, Grenoble, France. Currently as a second year master student, my stay here is supported by the IDEX scholarship. 
 
 <br />
 <br />

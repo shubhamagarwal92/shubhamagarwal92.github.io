@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /tech/
-title: Tech
+title: Technical Skills
 tags: [tech]
 modified: 3-10-2014
 comments: false
 ---
 
-### Technical Skills
+<!--### Technical Skills-->
 
 * Languages: Python, C, C++, Java, MySQL, PL-SQL, PHP
 * Softwares & Pkgs: Spark, Python (sklearn, nltk, pandas, numpy, plotly, bs4), R (dplyr,
@@ -19,12 +19,12 @@ H2O, shiny, caret, ggplot2, reshape2), MATLAB
 <br />
 <br /> For some time I have been using Keras for Deep Learning which provides abstraction over both Theano and TensorFlow. 
 <br />
-<h2> Machine Learning Specific </h2>
-* Supervised: Neural Networks, SVM, Random Forests, Naive Bayes, kNN, Collaborative Filtering
-* Unsupervised: Restricted Boltzmann Machine, Word Embeddings, Clustering
-<h2> Deep Learning Specific </h2>
-* Computer Vision: Convolutional Neural Networks (CNNs), RNNs, CDBN
-* Natural Language Processing: Recurrent Neural Networks (RNNs), LSTM, CNNs
+<!--<h2> Machine Learning Specific </h2>-->
+<!--* Supervised: Neural Networks, SVM, Random Forests, Naive Bayes, kNN, Collaborative Filtering-->
+<!--* Unsupervised: Restricted Boltzmann Machine, Word Embeddings, Clustering-->
+<!--<h2> Deep Learning Specific </h2>-->
+<!--* Computer Vision: Convolutional Neural Networks (CNNs), RNNs, CDBN-->
+<!--* Natural Language Processing: Recurrent Neural Networks (RNNs), LSTM, CNNs-->
 
 ### Courses
 
@@ -34,17 +34,17 @@ H2O, shiny, caret, ggplot2, reshape2), MATLAB
 
 
 ### Projects
-
+Some of the projects as part of my courses and pursued independently.
 * <strong>Classification using Deep Learning </strong>
-<br /> M.Tech. Thesis, Department of Mathematics, IIT Delhi
-<br />
+<!--<br /> M.Tech. Thesis, Department of Mathematics, IIT Delhi-->
+<!--<br />-->
 * Independent Deep Learning Projects
-<br />Daily News for Stock Market Prediction: Used LSTMs over word embedding layer in Keras to predict stock market movement from 8 years daily news headlines (Kaggle dataset)
-<br /> Implemented Multi-layer RNN (Keras) for binary addition & character language models
+<br />Daily News for Stock Market Prediction (See Code section)
+<br />Multi-layer RNN (Keras) for binary addition & character language models
 <br /> Sentiment Analysis using character based and word based language models (both RNNs and CNNs)
-<br /> Implemented LeNet model (Keras) for MNIST handwritten digit classification
+<br /> LeNet model (Keras) for MNIST handwritten digit classification
 * Movie Recommendation System
-<br /> Ensimag, Grenoble INP, Grenoble, France
+<!--<br /> Ensimag, Grenoble INP, Grenoble, France-->
 * Binary Classification with Logistic Regression
 * Naive Bayes Classifier for Newsgroup Classification
 * Support Vector Machines (SVMs) for Spam Classification
