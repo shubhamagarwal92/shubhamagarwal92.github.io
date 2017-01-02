@@ -36,17 +36,17 @@ H2O, shiny, caret, ggplot2, reshape2), MATLAB
 ### Projects
 Some of the projects as part of my courses and pursued independently.
 
-* <strong>Classification using Deep Learning </strong>
-<!--<br /> M.Tech. Thesis, Department of Mathematics, IIT Delhi-->
+* Classification using Deep Learning 
+<br /> M.Tech. Thesis, Department of Mathematics, IIT Delhi
 <!--<br />-->
 * Independent Deep Learning Projects
-<br />Daily News for Stock Market Prediction (See Code section)
-<br />Multi-layer RNN (Keras) for binary addition & character language models
-<br /> Sentiment Analysis using character based and word based language models (both RNNs and CNNs)
-<br /> LeNet model (Keras) for MNIST handwritten digit classification
-* Movie Recommendation System
+<br /> * Daily News for Stock Market Prediction (See Code section)
+<br />* Multi-layer RNN (Keras) for binary addition & character language models
+<br />* Sentiment Analysis using character based and word based language models (both RNNs and CNNs)
+<br />* LeNet model (Keras) for MNIST handwritten digit classification
+* Movie Recommendation System (PySpark)
 <!--<br /> Ensimag, Grenoble INP, Grenoble, France-->
-* Binary Classification with Logistic Regression
+* Binary Classification with Logistic Regression (PySpark)
 * Naive Bayes Classifier for Newsgroup Classification
 * Support Vector Machines (SVMs) for Spam Classification
 
