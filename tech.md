@@ -35,6 +35,7 @@ H2O, shiny, caret, ggplot2, reshape2), MATLAB
 
 ### Projects
 Some of the projects as part of my courses and pursued independently.
+
 * <strong>Classification using Deep Learning </strong>
 <!--<br /> M.Tech. Thesis, Department of Mathematics, IIT Delhi-->
 <!--<br />-->
