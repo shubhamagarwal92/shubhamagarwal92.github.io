@@ -37,21 +37,27 @@ New Delhi, India
 
 ### Internships
 
-* <strong>Institute for Development in Research and Banking Technology (IDRBT), Hyderabad, India 
-(Reserve Bank of India research institute) </strong>
-<br /><strong><i>Data Mining Tools on Integrated Complaint Management System (ICMS)</i></strong>
-<br />Under the supervision of [Dr. N.P.Dhavale](http://www.idrbt.ac.in/npd.html)
-<br />(May, 2012 - July, 2012)
+* <strong> Xerox Research Center Europe (XRCE), Grenoble, France </strong>
+<br /><strong><i>Deep Recurrent Neural Networks for Sequence Prediction</i></strong>
+<br /> Under the joint supervision of [Dr. Marc Dymetman](http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman) and [Dr. Eric Gaussier](http://ama.liglab.fr/~gaussier/)
+<br />(Feb, 2017 - June, 2017)
+
+* <strong>Telecom Bretagne, Brest, France </strong>
+<br /><strong><i>Community Detection in Social Networks</i></strong>
+<br /> Under the joint supervision of [Dr. Cecile Bothorel](http://perso.telecom-bretagne.eu/cecilebothorel/) and [Dr. Phillipe Lenca](http://perso.telecom-bretagne.eu/philippelenca/)
+<br />(May, 2014 - July, 2014)
 
 * <strong>Oracle Financial Services Software Ltd. (OFSS), Mumbai, India </strong>
 <br /><strong><i>Business Intelligence and Data Warehousing</i></strong>
 <br /> Under the supervision of [Mr. Douglas Izzett](https://ie.linkedin.com/in/dougie-izett-3883895) 
 <br />(May, 2013 - July, 2013)
 
-* <strong>Telecom Bretagne, Brest, France </strong>
-<br /><strong><i>Community Detection in Social Networks</i></strong>
-<br /> Under the joint supervision of [Dr. Cecile Bothorel](http://perso.telecom-bretagne.eu/cecilebothorel/) and [Dr. Phillipe Lenca](http://perso.telecom-bretagne.eu/philippelenca/)
-<br />(May, 2014 - July, 2014)
+* <strong>Institute for Development in Research and Banking Technology (IDRBT), Hyderabad, India 
+(Reserve Bank of India research institute) </strong>
+<br /><strong><i>Data Mining Tools on Integrated Complaint Management System (ICMS)</i></strong>
+<br />Under the supervision of [Dr. N.P.Dhavale](http://www.idrbt.ac.in/npd.html)
+<br />(May, 2012 - July, 2012)
+
 
 ### Scholarship
 * Awarded IDEX Scholarship from Universite Grenoble Alpes for MSIAM program 2016-17 (5000 euros)

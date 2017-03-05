@@ -11,8 +11,12 @@ image:
 
 <ul>
 
-I am a <a href="http://msiam.imag.fr">Master </a> student pursuing <strong>Data Science</strong> specialization (2016-17) in MSIAM (Master of Science in Industrial and Applied Mathematics), program jointly offered by Ensimag, Grenoble INP and IM2AG, Universite Grenoble Alpes, Grenoble, France. Currently as a second year master student, my stay here is supported by the IDEX scholarship. 
+I am a <a href="http://msiam.imag.fr">Master </a> student pursuing <strong>Data Science</strong> specialization (2016-17) in MSIAM (Master of Science in Industrial and Applied Mathematics), program jointly offered by Ensimag, Grenoble INP and IM2AG, Universite Grenoble Alpes, Grenoble, France. As a second year master student, my stay here is supported by the IDEX scholarship. 
 
+<br />
+<br />
+
+Currently I am doing an internship for my Master thesis at <a href="http://www.xrce.xerox.com/">Xerox Research Center Europe (XRCE)</a>, Grenoble, France. I am working on the topic "Deep Recurrent Neural Networks fo r Sequence Prediction" under the supervision of <a href="http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman"> Dr. Marc Dymetman </a> and <a href="http://ama.liglab.fr/~gaussier/"> Dr. Eric Gaussier </a>. 
 <br />
 <br />
 I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">Mathematics and Computing </a> from <a href="http://www.iitd.ac.in/">Indian Institute of Technology (IIT), Delhi </a> (2010-15). My master thesis was titled "Classification using Deep Learning"
