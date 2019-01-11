@@ -10,21 +10,21 @@ comments: false
 
 ### 2018
 
-* Alana v2: Entertaining and Informative Open-domain Social Dialogue <br />
+* [Alana v2: Entertaining and Informative Open-domain Social Dialogue using Ontologies and Entity Linking](http://dex-microsites-prod.s3.amazonaws.com/alexaprize/2018/papers/Alana.pdf) <br />
 Amanda Cercas Curry, Ioannis Papaioannou, Alessandro Suglia, Shubham Agarwal, Igor Shalyminov, Xinnuo Xu, Ondřej Dušek, Arash Eshghi, Ioannis Konstas, Verena Rieser and Oliver Lemon <br />
-Alexa Prize proceedings, 2018. To appear
+Alexa Prize proceedings, 2018
 
-* A Knowledge-Grounded Multimodal Search-Based Conversational Agent <br />
+* [A Knowledge-Grounded Multimodal Search-Based Conversational Agent](https://arxiv.org/pdf/1810.11954.pdf) <br />
 Shubham Agarwal, Ondřej Dušek, Yannis Konstas and Verena Rieser <br />
-SCAI, EMNLP, 2018. To appear
+SCAI, EMNLP, 2018
 
-* Improving Context Modelling in Multimodal Dialogue Generation <br />
+* [Improving Context Modelling in Multimodal Dialogue Generation](https://arxiv.org/pdf/1810.11955.pdf) <br />
 Shubham Agarwal, Ondřej Dušek, Yannis Konstas and Verena Rieser <br />
-INLG, 2018. To appear
+INLG, 2018
 
-* Char2char Generation with Reranking for the E2E NLG Challenge <br />
+* [Char2char Generation with Reranking for the E2E NLG Challenge](https://arxiv.org/pdf/1811.05826.pdf) <br />
 Shubham Agarwal, Marc Dymetman and Eric Gaussier <br />
-INLG, 2018. To appear
+INLG, 2018
 
 ### 2017
 
