@@ -13,11 +13,11 @@ comments: false
 * Softwares & Pkgs: Spark, Python (sklearn, nltk, pandas, numpy, plotly, bs4), R (dplyr,
 H2O, shiny, caret, ggplot2, reshape2), MATLAB 
 * Data Mining Tools: WEKA, Orange
-* Deep Learning: Theano, Keras, Caffe, H2O, DIGITS (NVIDIA)
+* Deep Learning: PyTorch, Keras, Tensorflow, Caffe, H2O, DIGITS (NVIDIA)
 * Experience in SparkSQL,MLLib,PySpark and Scala.
 * Good understanding of core AWS services, uses, and basic architecture. (Amazon EC2 and Amazon S3)
 <br />
-<br /> For some time I have been using Keras for Deep Learning which provides abstraction over both Theano and TensorFlow. 
+<br /> For some time I have been using PyTorch for Deep Learning.
 <br />
 <!--<h2> Machine Learning Specific </h2>-->
 <!--* Supervised: Neural Networks, SVM, Random Forests, Naive Bayes, kNN, Collaborative Filtering-->
