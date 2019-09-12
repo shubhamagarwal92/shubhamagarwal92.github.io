@@ -11,9 +11,22 @@ image:
 
 <ul>
 
+<h2> Headline </h2>
+
+Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialog Challenge' 18 | NLE @ E2E NLG Challenge' 17
+
+Past: @AdobeResearch | @gsoc | @XRCE | @IITDelhi
+
+<h2> Summary </h2>
+
 I am a PhD student at the <a href="https://sites.google.com/site/hwinteractionlab/">Interaction Lab </a>, Heriot Watt University, Edinburgh, UK supervised by <a href="https://sites.google.com/site/verenateresarieser/">Prof. Verena Rieser</a>, <a href="https://sites.google.com/site/olemon/">Prof. Oliver Lemon</a>, <a href="http://www.ikonstas.net/index.php">Dr. Yannis Konstas</a> and <a href="https://tuetschek.github.io/">Dr. Ondrej Dusek </a>. I am particularly interested in the multimodal dialogue generation at the interaction of Vision and Language.  
 <br />
 <br />
+
+I recently spent nice summers in beautiful California at Adobe Research, San Jose, CA
+<br />
+<br />
+
 I am part of Team Alana, one of the three finalists for the Alexa Prize 2018 held by Amazon to drive the research in Conversational AI. See you in Las Vegas for the finals! Wohoo! 
 <br />
 <br />
