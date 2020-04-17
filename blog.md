@@ -1,7 +1,6 @@
 ---
-layout: post-index
+layout: page
 permalink: /blog/
-title: Blogs
 tags: [blog]
 comments: false
 ---
