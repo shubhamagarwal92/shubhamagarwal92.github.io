@@ -44,6 +44,19 @@ I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">
 <br />
 <br />
 
+<h2> News </h2>
+
+- [April 2020] 1 paper accepted at ACL 2020
+- [Nov 2019] Another proposal for Adobe gift funding accepted
+- [Oct 2019] Proposal for Adobe gift funding accepted
+- [May 2019] I'll be starting my research intern at Adobe Research
+- [Nov 2018] I’ll be attending [INLG](https://inlg2018.uvt.nl/) 2018 in Tilburg, The Netherlands
+- [Nov 2018] 2 papers accepted as poster presentations in INLG 2018.
+- [Nov 2018] I’ll be attending Alexa Prize Summit in Las Vegas.
+- [Sept 2018] I’ll be attending ECCV 2018. 
+- [Sept 2018] I’ll be attending EMNLP 2018.
+- [Sept 2018] Team Pikabot among top-3 teams at Visual Dialog Challenge 2018.
+
 <h2> Research Interest </h2>
 
 Deep Learning, Multimodal Dialogue Generation, Conversational AI, Visual Dialogue, Natural Language Generation, Computer Vision, Recommendation Systems
@@ -53,6 +66,8 @@ I am particularly interested in Deep Learning and its interdisciplinary applicat
 </ul>
 
 </section>
+
+
 
 
 
