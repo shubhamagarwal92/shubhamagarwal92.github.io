@@ -6,6 +6,7 @@ tags: [timeline]
 comments: false
 ---
 
+<link rel="stylesheet" href="{{ site.url }}/assets/css/timeline.css">
   <div class="timeline">
   <div class="entry">
     <div class="title">
