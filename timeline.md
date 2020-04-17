@@ -10,7 +10,7 @@ comments: false
 
 <!-- Item 8 -->
 <li>
-	<div class="direction-r">
+	<div class="direction-l">
 		<div class="flag-wrapper">
 			<span class="flag">Adobe Research</span>
 			<span class="time-wrapper"><span class="time">2019 - 2019</span></span>
@@ -33,7 +33,7 @@ comments: false
 
 <!-- Item 6 -->
 <li>
-	<div class="direction-r">
+	<div class="direction-l">
 		<div class="flag-wrapper">
 			<span class="flag">Heriot-Watt University (Adeptmind Scholar)</span>
 			<span class="time-wrapper"><span class="time">2017 - Present</span></span>
@@ -57,7 +57,7 @@ comments: false
 
 <!-- Item 4 -->
 <li>
-	<div class="direction-r">
+	<div class="direction-l">
 		<div class="flag-wrapper">
 			<span class="flag">Xerox Research Center Europe (XRCE)</span>
 			<span class="time-wrapper"><span class="time">2017 - 2017</span></span>
@@ -68,7 +68,7 @@ comments: false
 
 <!-- Item 3 -->
 <li>
-	<div class="direction-l">
+	<div class="direction-r">
 		<div class="flag-wrapper">
 			<span class="flag">Grenoble INP</span>
 			<span class="time-wrapper"><span class="time">2016 - 2017</span></span>
