@@ -1,6 +1,6 @@
 .timeline {
   position: relative;
-  width: 660px;
+  width: 960px;
   margin: 0 auto;
   margin-top: 20px;
   padding: 1em 0;
@@ -41,14 +41,14 @@
 
 .direction-l {
   position: relative;
-  width: 400px;
+  width: 450px;
   float: left;
   text-align: right;
 }
 
 .direction-r {
   position: relative;
-  width: 400px;
+  width: 450px;
   float: right;
 }
 
