@@ -6,20 +6,6 @@ tags: [timeline]
 comments: false
 ---
 
-<!DOCTYPE html>
-<html >
-<head>
-  <meta charset="UTF-8">
-  <title>Timeline</title>
-  
-  
-  <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600'>
-   <link rel="stylesheet" href="assets/css/timeline.css">
-
-  
-</head>
-
-<body>
   <div class="timeline">
   <div class="entry">
     <div class="title">
@@ -79,7 +65,3 @@ comments: false
   </div>
 
 </div>
-  
-  
-</body>
-</html>
