@@ -1,13 +1,10 @@
 ---
 layout: home2
-title: About
 description: "Shubham Agarwal"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
 <!--  feature: grafiti.png-->
 ---
-
-<section>
 
 <ul>
 
@@ -19,6 +16,30 @@ Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialog Challenge'
 <br />
 <br />
 Past: @AdobeResearch | @gsoc | @XRCE | @IITDelhi
+
+<h2> News </h2>
+
+* [April 2020] 1 paper accepted at ACL 2020
+
+* [Nov 2019] Another proposal for Adobe gift funding accepted
+
+* [Oct 2019] Proposal for Adobe gift funding accepted
+- [May 2019] I'll be starting my research intern at Adobe Research
+- [Nov 2018] I’ll be attending [INLG](https://inlg2018.uvt.nl/) 2018 in Tilburg, The Netherlands
+- [Nov 2018] 2 papers accepted as poster presentations in INLG 2018.
+- [Nov 2018] I’ll be attending Alexa Prize Summit in Las Vegas.
+- [Sept 2018] I’ll be attending ECCV 2018. 
+- [Sept 2018] I’ll be attending EMNLP 2018.
+- [Sept 2018] Team Pikabot among top-3 teams at Visual Dialog Challenge 2018.
+
+<h2> Research Interest </h2>
+
+Deep Learning, Multimodal Dialogue Generation, Conversational AI, Visual Dialogue, Natural Language Generation, Recommendation Systems
+<br />
+<br />
+I am particularly interested in Deep Learning and its interdisciplinary applications. Check out <a href="https://github.com/shubhamagarwal92">github </a> for my latest activity. 
+</ul>
+
 
 <h2> Summary </h2>
 
@@ -43,29 +64,6 @@ Prior to this, I did one year masters pursuing <strong>Data Science</strong> spe
 I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">Mathematics and Computing </a> from <a href="http://www.iitd.ac.in/">Indian Institute of Technology (IIT), Delhi </a> (2010-15). My master thesis was titled "Classification using Deep Learning". Thereafter, I worked as a <strong>Data Scientist</strong> for 2015-16 in <a href="http://trulymadly.com/">TrulyMaldy Matchmakers Pvt. Ltd. </a>, in the online dating domain.
 <br />
 <br />
-
-<h2> News </h2>
-
-- [April 2020] 1 paper accepted at ACL 2020
-- [Nov 2019] Another proposal for Adobe gift funding accepted
-- [Oct 2019] Proposal for Adobe gift funding accepted
-- [May 2019] I'll be starting my research intern at Adobe Research
-- [Nov 2018] I’ll be attending [INLG](https://inlg2018.uvt.nl/) 2018 in Tilburg, The Netherlands
-- [Nov 2018] 2 papers accepted as poster presentations in INLG 2018.
-- [Nov 2018] I’ll be attending Alexa Prize Summit in Las Vegas.
-- [Sept 2018] I’ll be attending ECCV 2018. 
-- [Sept 2018] I’ll be attending EMNLP 2018.
-- [Sept 2018] Team Pikabot among top-3 teams at Visual Dialog Challenge 2018.
-
-<h2> Research Interest </h2>
-
-Deep Learning, Multimodal Dialogue Generation, Conversational AI, Visual Dialogue, Natural Language Generation, Computer Vision, Recommendation Systems
-<br />
-<br />
-I am particularly interested in Deep Learning and its interdisciplinary applications. Check out <a href="https://github.com/shubhamagarwal92">github </a> for my latest activity. 
-</ul>
-
-</section>
 
 
 
