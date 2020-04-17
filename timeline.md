@@ -6,11 +6,14 @@ tags: [timeline]
 comments: false
 ---
 
-<div class="row example-centered">
+<div class="container-fluid">
+    <div class="row example-basic">
         <div class="col-md-12 example-title">
+            <h2>Basic Timeline</h2>
+            <p>Extra small devices (phones, less than 768px)</p>
         </div>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-            <ul class="timeline timeline-centered">
+            <ul class="timeline">
                 <li class="timeline-item">
                     <div class="timeline-info">
                         <span>March 12, 2016</span>
@@ -64,4 +67,5 @@ comments: false
                 </li>
             </ul>
         </div>
-</div>
+    </div>
+ </div>
