@@ -6,66 +6,39 @@ tags: [timeline]
 comments: false
 ---
 
-<div class="container-fluid">
-    <div class="row example-basic">
-        <div class="col-md-12 example-title">
-            <h2>Basic Timeline</h2>
-            <p>Extra small devices (phones, less than 768px)</p>
-        </div>
-        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-            <ul class="timeline">
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>March 12, 2016</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
-                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
-                            eu pede mollis pretium. Pellentesque ut neque.</p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>March 23, 2016</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
-                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
-                            eu pede mollis pretium. Pellentesque ut neque. </p>
-                    </div>
-                </li>
-                <li class="timeline-item period">
-                    <div class="timeline-info"></div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h2 class="timeline-title">April 2016</h2>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>April 02, 2016</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
-                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
-                            eu pede mollis pretium. Pellentesque ut neque. </p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>April 28, 2016</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Event Title</h3>
-                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
-                            eu pede mollis pretium. Pellentesque ut neque. </p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </div>
- </div>
+<ul class="timeline">
+
+	<!-- Item 1 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Freelancer</span>
+				<span class="time-wrapper"><span class="time">2013 - present</span></span>
+			</div>
+			<div class="desc">My current employment. Way better than the position before!</div>
+		</div>
+	</li>
+  
+	<!-- Item 2 -->
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Apple Inc.</span>
+				<span class="time-wrapper"><span class="time">2011 - 2013</span></span>
+			</div>
+			<div class="desc">My first employer. All the stuff I've learned and projects I've been working on.</div>
+		</div>
+	</li>
+
+	<!-- Item 3 -->
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">Harvard University</span>
+				<span class="time-wrapper"><span class="time">2008 - 2011</span></span>
+			</div>
+			<div class="desc">A description of all the lectures and courses I have taken and my final degree?</div>
+		</div>
+	</li>
+  
+</ul>
