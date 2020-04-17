@@ -4,7 +4,6 @@
     <list default="true" id="27d95396-4105-4f8c-99c2-145719cee47e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/timeline.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/timeline.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timeline.md" beforeDir="false" afterPath="$PROJECT_DIR$/timeline.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587074464580</updated>
-      <workItem from="1587074467058" duration="3658000" />
+      <workItem from="1587074467058" duration="3979000" />
     </task>
     <servers />
   </component>
