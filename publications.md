@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
 tags: [publications]
 modified: 8-7-2014
 comments: false
+<!--title: Publications-->
 ---
 
 
