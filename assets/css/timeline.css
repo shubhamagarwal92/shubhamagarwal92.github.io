@@ -41,14 +41,14 @@
 
 .direction-l {
   position: relative;
-  width: 400px;
+  width: 500px;
   float: left;
   text-align: right;
 }
 
 .direction-r {
   position: relative;
-  width: 400px;
+  width: 500px;
   float: right;
 }
 
@@ -264,7 +264,7 @@
 
 }
 
-@media screen and (min-width: 400px ?? max-width: 660px) {
+@media screen and (min-width: 500px ?? max-width: 760px) {
 
 .direction-l .desc,
 .direction-r .desc {
