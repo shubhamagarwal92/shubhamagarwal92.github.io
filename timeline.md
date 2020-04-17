@@ -6,63 +6,62 @@ tags: [timeline]
 comments: false
 ---
 
-<link rel="stylesheet" href="{{ site.url }}/assets/css/timeline.css">
-  <div class="timeline">
-  <div class="entry">
-    <div class="title">
-      <h3>2014 - Present</h3>
-      <p>Title, Company</p>
-    </div>
-    <div class="body">
-      <p>Voluptatibus veniam ea reprehenderit atque reiciendis non laborum adipisci ipsa pariatur omnis.</p>
-      <ul>
-        <li>Rerum sit libero possimus amet excepturi</li>
-        <li>Exercitationem enim dolores sunt praesentium dolorum praesentium</li>
-        <li>Modi aut dolores dignissimos sequi sit ut aliquid molestias deserunt illo</li>
-      </ul>
-    </div>
-  </div>
-  <div class="entry">
-    <div class="title">
-      <h3>2010 - Present</h3>
-      <p>Title, Company</p>
-    </div>
-    <div class="body">
-      <p>Voluptatibus veniam ea reprehenderit atque reiciendis non laborum adipisci ipsa pariatur omnis.</p>
-      <ul>
-        <li>Rerum sit libero possimus amet excepturi</li>
-        <li>Exercitationem enim dolores sunt praesentium dolorum praesentium</li>
-        <li>Modi aut dolores dignissimos sequi sit ut aliquid molestias deserunt illo</li>
-      </ul>
-    </div>
-  </div>
-  <div class="entry">
-    <div class="title">
-      <h3>2009 - 2010</h3>
-      <p>Title, Company</p>
-    </div>
-    <div class="body">
-      <p>Voluptatibus veniam ea reprehenderit atque reiciendis non laborum adipisci ipsa pariatur omnis.</p>
-      <ul>
-        <li>Rerum sit libero possimus amet excepturi</li>
-        <li>Exercitationem enim dolores sunt praesentium dolorum praesentium</li>
-        <li>Modi aut dolores dignissimos sequi sit ut aliquid molestias deserunt illo</li>
-      </ul>
-    </div>
-  </div>
-  <div class="entry">
-    <div class="title">
-      <h3>2006 - 2008</h3>
-      <p>Title, Company</p>
-    </div>
-    <div class="body">
-      <p>Voluptatibus veniam ea reprehenderit atque reiciendis non laborum adipisci ipsa pariatur omnis.</p>
-      <ul>
-        <li>Rerum sit libero possimus amet excepturi</li>
-        <li>Exercitationem enim dolores sunt praesentium dolorum praesentium</li>
-        <li>Modi aut dolores dignissimos sequi sit ut aliquid molestias deserunt illo</li>
-      </ul>
-    </div>
-  </div>
-
+<div class="row example-centered">
+        <div class="col-md-12 example-title">
+        </div>
+        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+            <ul class="timeline timeline-centered">
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>March 12, 2016</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Event Title</h3>
+                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
+                            eu pede mollis pretium. Pellentesque ut neque.</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>March 23, 2016</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Event Title</h3>
+                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
+                            eu pede mollis pretium. Pellentesque ut neque. </p>
+                    </div>
+                </li>
+                <li class="timeline-item period">
+                    <div class="timeline-info"></div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h2 class="timeline-title">April 2016</h2>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>April 02, 2016</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Event Title</h3>
+                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
+                            eu pede mollis pretium. Pellentesque ut neque. </p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>April 28, 2016</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Event Title</h3>
+                        <p>Nullam vel sem. Nullam vel sem. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Donec vitae sapien ut libero venenatis faucibus. ullam dictum felis
+                            eu pede mollis pretium. Pellentesque ut neque. </p>
+                    </div>
+                </li>
+            </ul>
+        </div>
 </div>
