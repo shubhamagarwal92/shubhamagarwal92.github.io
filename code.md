@@ -7,10 +7,11 @@ modified: 3-10-2014
 comments: false
 ---
 
+Please see my pinned repositories and commit history on Github for my latest activity. This page will not be maintained. 
 
 ### Deep Learning 
 
-* I have been experimenting lately with Deep Learning in Natural Language Processing for Sentiment Analysis. Check out my [repo](https://github.com/shubhamagarwal92/deep-learning-nlp-sentiment-analysis) where I experimented with RNNs and CNNs both character based and word based models. (In progress!)
+* I experimented with Deep Learning in Natural Language Processing for Sentiment Analysis. Check out my [repo](https://github.com/shubhamagarwal92/deep-learning-nlp-sentiment-analysis) where I experimented with RNNs and CNNs both character based and word based models.
 * Kaggle kernel: [Daily News for Stock Market Prediction](https://kaggle.com/aaron7sun/stocknews/kernels) I have tried LSTMs for this (classification) prediction task. Check [this](https://github.com/shubhamagarwal92/stockPredictionKaggle). 
 * Some other data processing and models (mainly in Vision) using Keras (and Python) [here](https://github.com/shubhamagarwal92/deepLearning).
 

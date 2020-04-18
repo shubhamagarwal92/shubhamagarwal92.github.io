@@ -33,7 +33,7 @@ Past: @AdobeResearch | @GSoC | @XRCE | @IITDelhi
 <br />
 [Nov 2018] 2 papers accepted as poster presentations in INLG 2018.
 <br />
-[Oct 2018] I’ll be attending EMNLP 2018 to present my work at SCAI-EMNLP'18
+[Oct 2018] I’ll be attending EMNLP 2018 to present my work at [SCAI-EMNLP'18]((https://scai.info/2018/))
 <br />
 [Sept 2018] Team Pikabot among top-3 teams at Visual Dialog Challenge in SiVL, ECCV 2018 .
 <br />

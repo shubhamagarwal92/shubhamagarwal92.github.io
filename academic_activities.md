@@ -29,13 +29,17 @@ New Delhi, India
 <br /><i>Guided by Prof. [Mausam](http://homes.cs.washington.edu/~mausam/) (Dept. of Computer Science, IIT Delhi) </i> 
 <br />(July, 2015- Aug, 2016)
 
-* Experimented with Deep Convolutional Neural Networks (CNNs) in Keras (python) to classify females according to subjective beauty quotient defined by male activity in the dating app
 * Worked on Personalised Recommender System using Random Forests in H20(R)
 * Developed in-house interactive Dashboard using Shiny framework in R for understanding the demographics and activity of users
 * Sole ownership of the restaurant recommender system "Datelicious" in PHP
 * Worked extensively with Amazon EC2 and Amazon S3 services
 
 ### Internships
+
+* <strong> Adobe Research, San Jose, CA, US </strong>
+<br /><strong><i>Visually Grounded Dialog</i></strong>
+<br /> Wtih Dr. Trung Bui and Dr. Joon-Young Lee
+<br />(May, 2019 - Aug, 2019)
 
 * <strong> Xerox Research Center Europe (XRCE), Grenoble, France </strong>
 <br /><strong><i>Deep Recurrent Neural Networks for Sequence Prediction</i></strong>
