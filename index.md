@@ -17,8 +17,10 @@ Past: @AdobeResearch | @GSoC | @XRCE | @IITDelhi
 
 <h2> News </h2>
 
-* [April 2020] 1 paper accepted at ACL 2020
-* [Nov 2019] Another proposal for Adobe gift funding accepted
+[April 2020] 1 paper accepted at ACL 2020
+<br />
+[Nov 2019] Another proposal for Adobe gift funding accepted
+<br />
 * [Oct 2019] Proposal for Adobe gift funding accepted
 * [May 2019] I'll be starting my research intern at Adobe Research
 * [Nov 2018] I’ll be attending [INLG](https://inlg2018.uvt.nl/) 2018 in Tilburg, The Netherlands
@@ -38,15 +40,22 @@ I am particularly interested in Deep Learning and its interdisciplinary applicat
 
 Refer the timeline tab for graphic visualization! 
 
+### UK
 I am a PhD student at the <a href="https://sites.google.com/site/hwinteractionlab/">Interaction Lab </a>, Heriot Watt University, Edinburgh, UK. My PhD is funded by the Canadian startup Adeptmind Inc.  
 
-I recently spent nice summers in beautiful California at Adobe Research, San Jose, CA
+### US
+I recently spent nice summers'19 in beautiful California at Adobe Research, San Jose, CA
+
+### France
+In 2016-17, I did one year masters pursuing <strong>Data Science</strong> specialization (2016-17) in <a href="http://msiam.imag.fr">MSIAM</a> at Grenoble INP, Grenoble, France. My stay was supported by the IDEX scholarship. 
 <br />
-In 2016-17, I did one year masters pursuing <strong>Data Science</strong> specialization (2016-17) in <a href="http://msiam.imag.fr">MSIAM</a> (Master of Science in Industrial and Applied Mathematics), program jointly offered by Ensimag, Grenoble INP and IM2AG, Universite Grenoble Alpes, Grenoble, France. My stay was supported by the IDEX scholarship. 
 <br />
-Previously I did an internship for my Master thesis at <a href="http://www.xrce.xerox.com/">Xerox Research Center Europe (XRCE)</a> (now Naver Labs Europe), Grenoble, France under the supervision of <a href="http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman"> Dr. Marc Dymetman </a> and <a href="http://ama.liglab.fr/~gaussier/"> Dr. Eric Gaussier </a>. 
+I did an internship for my Master thesis at <a href="http://www.xrce.xerox.com/">Xerox Research Center Europe (XRCE)</a> (now Naver Labs Europe), Grenoble, France under the supervision of <a href="http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman"> Dr. Marc Dymetman </a> and <a href="http://ama.liglab.fr/~gaussier/"> Dr. Eric Gaussier </a>. 
+
+### India
+I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">Mathematics and Computing </a> from <a href="http://www.iitd.ac.in/">Indian Institute of Technology (IIT), Delhi </a> (2010-15). 
 <br />
-I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">Mathematics and Computing </a> from <a href="http://www.iitd.ac.in/">Indian Institute of Technology (IIT), Delhi </a> (2010-15). Thereafter, I worked as a <strong>Data Scientist</strong> for 2015-16 in <a href="http://trulymadly.com/">TrulyMaldy Matchmakers Pvt. Ltd. </a>, in the online dating domain.
+Thereafter, I worked as a <strong>Data Scientist</strong> for 2015-16 in <a href="http://trulymadly.com/">TrulyMaldy Matchmakers Pvt. Ltd. </a>, in the online dating domain.
 
 
 
