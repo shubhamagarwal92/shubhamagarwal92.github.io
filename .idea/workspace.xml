@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27d95396-4105-4f8c-99c2-145719cee47e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,11 +29,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/thesis" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/thesis" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -48,7 +50,7 @@
       <updated>1587074464580</updated>
       <workItem from="1587074467058" duration="9814000" />
       <workItem from="1590156458080" duration="346000" />
-      <workItem from="1590434923963" duration="190000" />
+      <workItem from="1590434923963" duration="1351000" />
     </task>
     <servers />
   </component>

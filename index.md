@@ -45,6 +45,8 @@ Deep Learning, Vision and Language, Multimodal Dialog Generation, Conversational
 <br />
 I am particularly interested in Deep Learning and its interdisciplinary applications (V&L). Check out <a href="https://github.com/shubhamagarwal92">github </a> for my latest activity. 
 
+Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distance/shubham-agarwal-0001/paul-erdos"> here</a>. 
+
 <h2> Summary </h2>
 
 Refer the timeline tab for graphic visualization! 
