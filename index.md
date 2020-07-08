@@ -17,13 +17,18 @@ Past: @AdobeResearch | @GSoC | @XRCE | @IITDelhi
 
 <h2> News </h2>
 
+
+[July 2020] I will be presenting our work at Virutal ACL 2020.  
+<br />
+[June 2020] I am doing another remote intern at Adobe Research  
+<br />
 [April 2020] 1 paper accepted at ACL 2020 
 <br />
 [Nov 2019] Another proposal for Adobe gift funding ($7k) accepted
 <br />
 [Sept 2019] Proposal for Adobe gift funding ($5k) accepted
 <br />
-[May 2019] I'll be starting my research intern at Adobe Research
+[May 2019] I'll be starting my research intern at Adobe Research, San Jose, CA, US.
 <br />
 [Nov 2018] Team Alana places third at Amazon Alexa Prize Challenge'18.
 <br />
