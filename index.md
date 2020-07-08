@@ -18,11 +18,11 @@ Past: @AdobeResearch | @GSoC | @XRCE | @IITDelhi
 <h2> News </h2>
 
 
-[July 2020] I will be presenting our work at Virutal ACL 2020.  
+[July 2020] I will be presenting our work at Virutal ACL 2020.
 <br />
-[June 2020] I am doing another remote intern at Adobe Research  
+[June 2020] I am doing another remote intern at Adobe Research
 <br />
-[April 2020] 1 paper accepted at ACL 2020 
+[April 2020] 1 paper accepted at ACL 2020
 <br />
 [Nov 2019] Another proposal for Adobe gift funding ($7k) accepted
 <br />
