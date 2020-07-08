@@ -10,7 +10,7 @@ title: Recent Publications
 
 ### 2020
 
-* [History for Visual Dialog: Do we really need it?](https://acl2020.org/) <br />
+* [History for Visual Dialog: Do we really need it?](https://arxiv.org/pdf/2005.07493.pdf) <br />
 Shubham Agarwal, Trung Bui, Joon-Young Lee, Yannis Konstas and Verena Rieser <br />
 ACL 2020
 
@@ -44,6 +44,6 @@ INLG, 2018
 Shubham Agarwal, Marc Dymetman and Eric Gaussier <br />
 In the E2E NLG Challenge
 
-* [A surprisingly effective out-of-the-box char2char model on the E2E NLG Challenge dataset](http://www.aclweb.org/anthology/W17-5519) <br />
+* [A surprisingly effective out-of-the-box char2char model on the E2E NLG Challenge dataset](https://www.aclweb.org/anthology/W17-5519.pdf) <br />
 Shubham Agarwal and Marc Dymetman <br />
 Special Interest Group on Discourse and Dialogue (SIGdial), 2017
