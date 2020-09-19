@@ -8,16 +8,13 @@ image:
 
 "Science is not only a discipline of reason but also of passion and love" - Stephen Hawking
 
-<h2> Headline </h2>
-
-Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialog Challenge' 18 | NLE @ E2E NLG Challenge' 17
-<br />
-<br />
-Past: @AdobeResearch | @GSoC | @XRCE | @IITDelhi
 
 <h2> News </h2>
 
-
+[Sept 2020] We are organizing 1st Workshop on Evaluating NLG Evaluation (EvalNLGEval) at INLG'20
+<br />
+[July 2020] I am reviewing for ACL'20 demo, IJCAI'20, COLING'20.
+<br />
 [July 2020] I will be presenting our work at Virutal ACL 2020.
 <br />
 [June 2020] I am doing another remote intern at Adobe Research
@@ -51,6 +48,14 @@ Deep Learning, Vision and Language, Multimodal Dialog Generation, Conversational
 I am particularly interested in Deep Learning and its interdisciplinary applications (V&L). Check out <a href="https://github.com/shubhamagarwal92">github </a> for my latest activity. 
 
 Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distance/shubham-agarwal-0001/paul-erdos"> here</a>. 
+
+<h2> Headline </h2>
+
+Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialog Challenge' 18 | NLE @ E2E NLG Challenge' 17
+<br />
+<br />
+Past: @AdobeResearch | @GSoC | @XRCE | @IITDelhi
+
 
 <h2> Summary </h2>
 
