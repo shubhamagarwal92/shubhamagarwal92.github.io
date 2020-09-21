@@ -13,6 +13,7 @@ title: Recent Publications
 * [History for Visual Dialog: Do we really need it?](https://www.aclweb.org/anthology/2020.acl-main.728.pdf) <br />
 Shubham Agarwal, Trung Bui, Joon-Young Lee, Yannis Konstas and Verena Rieser <br />
 ACL 2020
+[Talk](https://slideslive.com/38928892/history-for-visual-dialog-do-we-really-need-it)
 
 ### 2019
 
