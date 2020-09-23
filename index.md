@@ -13,7 +13,7 @@ image:
 
 [Sept 2020] We are organizing 1st Workshop on Evaluating NLG Evaluation (EvalNLGEval) at INLG'20
 <br />
-[July 2020] I am reviewing for ACL'20 demo, IJCAI'20, COLING'20.
+[July 2020] I am reviewing for ACL'20 demo, IJCAI'20, COLING'20, HAI'20.
 <br />
 [July 2020] I will be presenting our work at Virutal ACL 2020.
 <br />
