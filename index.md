@@ -11,9 +11,13 @@ image:
 
 <h2> News </h2>
 
-[Sept 2020] We are organizing 1st Workshop on Evaluating NLG Evaluation (EvalNLGEval) at INLG'20
+[Oct 2020] Serving on Program Committee for Neurips'21 workshops Human in the Loop and Wordplay. 
 <br />
-[July 2020] I am reviewing for ACL'20 demo, IJCAI'20, COLING'20, HAI'20.
+[Oct 2020] I am reviewing for ICLR'21, ACL'20 demo, IJCAI'20, COLING'20, HAI'20.
+<br />
+[Oct 2020] Our proposal for ReproGen shared task accepted at INLG'20. More details soon.
+<br />
+[Sept 2020] We are organizing 1st Workshop on Evaluating NLG Evaluation (EvalNLGEval) at INLG'20
 <br />
 [July 2020] I will be presenting our work at Virutal ACL 2020.
 <br />
