@@ -11,7 +11,7 @@ image:
 
 <h2> News </h2>
 
-[Oct 2020] Serving on Program Committee for Neurips'21 workshops Human in the Loop and Wordplay. 
+[Oct 2020] Serving on Program Committee for Neurips'20 workshops Human in the Loop (HLDS) and Wordplay. 
 <br />
 [Oct 2020] I am reviewing for ICLR'21, ACL'20 demo, IJCAI'20, COLING'20, HAI'20.
 <br />
@@ -19,11 +19,9 @@ image:
 <br />
 [Sept 2020] We are organizing 1st Workshop on Evaluating NLG Evaluation (EvalNLGEval) at INLG'20
 <br />
-[July 2020] I will be presenting our work at Virutal ACL 2020.
+[July 2020] I will be presenting our work at Virutal ACL 2020. 1 paper accepted at ACL 2020
 <br />
 [June 2020] I am doing another remote intern at Adobe Research
-<br />
-[April 2020] 1 paper accepted at ACL 2020
 <br />
 [Nov 2019] Another proposal for Adobe gift funding ($7k) accepted
 <br />
@@ -31,19 +29,13 @@ image:
 <br />
 [May 2019] I'll be starting my research intern at Adobe Research, San Jose, CA, US.
 <br />
-[Nov 2018] Team Alana places third at Amazon Alexa Prize Challenge'18.
+[Nov 2018] I am attending Amazon AWS Summit'18 in Las Vegas. Team Alana places third at Amazon Alexa Prize Challenge'18. Wohoo
 <br />
-[Nov 2018] I’ll be attending Amazon AWS Summit'18 in Las Vegas.
-<br />
-[Nov 2018] I’ll be attending [INLG](https://inlg2018.uvt.nl/) 2018 in Tilburg, The Netherlands
-<br />
-[Nov 2018] 2 papers accepted as poster presentations in INLG 2018.
+[Nov 2018] I’ll be attending [INLG](https://inlg2018.uvt.nl/) 2018 in Tilburg, The Netherlands. 2 papers accepted as poster presentations in INLG 2018.
 <br />
 [Oct 2018] I’ll be attending EMNLP 2018 to present my work at [SCAI-EMNLP'18]((https://scai.info/2018/))
 <br />
-[Sept 2018] Team Pikabot among top-3 teams at Visual Dialog Challenge in SiVL, ECCV 2018 .
-<br />
-[Sept 2018] I’ll be attending ECCV 2018. 
+[Sept 2018] I’ll be attending ECCV 2018. Team Pikabot among top-3 teams at Visual Dialog Challenge in SiVL, ECCV 2018 .
 
 <h2> Research Interest </h2>
 
