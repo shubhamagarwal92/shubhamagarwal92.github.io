@@ -9,3 +9,5 @@ and
 
 
 Visitors template from http://www.flagcounter.com/index.html?
+
+Use blog template from https://academicpages.github.io/markdown/
