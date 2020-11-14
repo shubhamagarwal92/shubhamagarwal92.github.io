@@ -13,9 +13,9 @@ image:
 
 [Nov 2020] Our proposal for Workshop on Human Evaluation of NLP Systems has been accepted for EACL'21. More details soon. 
 <br />
-[Oct 2020] Serving on Program Committee for Neurips'20 workshops Human in the Loop (HLDS) and Wordplay. 
+[Oct 2020] Serving on Program Committee for NeurIPS'20 workshops Human in the Loop (HLDS) and Wordplay. 
 <br />
-[Oct 2020] I am reviewing for ICLR'21, ACL'20 demo, IJCAI'20, COLING'20, HAI'20.
+[Oct 2020] I am reviewing for ICLR'21, EACL'21, NeurIPS'20 (WS), ACL'20 demo, COLING'20, INLG'20 (WS), IJCAI'20, HAI'20.
 <br />
 [Oct 2020] Our proposal for ReproGen shared task accepted at INLG'20. More details soon.
 <br />
