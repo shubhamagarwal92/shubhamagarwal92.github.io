@@ -46,7 +46,7 @@ comments: false
 <li>
 	<div class="direction-l">
 		<div class="flag-wrapper">
-			<span class="flag">Heriot-Watt University (Adeptmind Scholar)</span>
+			<span class="flag">Interaction Lab (Adeptmind Scholar)</span>
 			<span class="time-wrapper"><span class="time">2017 - Present</span></span>
 		</div>
 		<div class="desc">Ph.D. Student (Edinburgh, UK)</div>
