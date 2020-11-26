@@ -11,6 +11,19 @@ image:
 
 <h2> News </h2>
 
+<script>
+	(function($){
+		$(window).on("load",function(){
+		    $("body").mCustomScrollbar({
+		        theme:"inset-dark",
+		        mouseWheel:{enable:true}
+		    });
+		});
+	})(jQuery);
+</script>
+ 
+ <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:300px;width:700px;font:25px/30px;font-face: Inherit; overflow:auto;">
+
 ⭐️ <span style="font-weight: bold;">[Nov 2020]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Our proposal for Workshop on Human Evaluation of NLP Systems has been accepted for EACL'21. More details soon. 
 <br />
 [Oct 2020] Serving on Program Committee for NeurIPS'20 workshops Human in the Loop (HLDS) and Wordplay. 
@@ -38,6 +51,7 @@ image:
 [Oct 2018] I’ll be attending EMNLP 2018 to present my work at [SCAI-EMNLP'18]((https://scai.info/2018/))
 <br />
 [Sept 2018] I’ll be attending ECCV 2018. Team Pikabot among top-3 teams at Visual Dialog Challenge in SiVL, ECCV 2018 .
+</div>
 
 <h2> Research Interest </h2>
 
