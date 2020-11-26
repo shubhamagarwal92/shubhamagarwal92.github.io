@@ -11,3 +11,5 @@ and
 Visitors template from http://www.flagcounter.com/index.html?
 
 Use blog template from https://academicpages.github.io/markdown/
+
+Also acknowledging https://github.com/jponttuset/jponttuset.github.io and https://github.com/goelarushi/goelarushi.github.io/
