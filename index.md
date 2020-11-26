@@ -72,6 +72,10 @@ Challenges: Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialo
 My research mostly focuses on visual grounding (symbol grounding) and context modeling (communicative grounding) in multi-modal visual conversational agents. I am interested to build machines that can see and talk. My research interests broadly span multi-modal representation and transfer learning for vision and language problems. Previously I also explored Natural Language Generation for data-to-text and knowledge grounded multi-modal dialog response generation. I was an integral part of Heriot-Watt’s "Alana" submission - finalists to Amazon’s Alexa Prize Socialbot Grand Challenge 2018. My submission was also the runner-up for the Visual Dialog Challenge 2018 and E2E NLG Challenge 2017. I am an active blogger, often contributing to open-source repositories for the democratization of AI. I also co-organized the Workshop on Evaluating NLG Evaluation (EvalNLGEval), served on the Program Committee for NeurIPS and ACL workshops, reviewed for NLP/AI conferences (ICLR, ACL, COLING), and published at top NLP conferences such as ACL, EMNLP, INLG, SIGDial. 
 
 
+<a class="twitter-timeline" href="https://twitter.com/shubhamag1992" data-widget-id="338001751854686210">Tuits de @shubhamag1992</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
 <h2> Summary </h2>
 
 Refer the timeline tab for graphic visualization! 
