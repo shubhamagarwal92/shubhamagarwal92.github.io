@@ -3,7 +3,7 @@ layout: page
 description: "Shubham Agarwal"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-<!--  feature: grafiti.png-->
+  feature: croatia.jpg
 ---
 
 "Science is not only a discipline of reason but also of passion and love" - Stephen Hawking
