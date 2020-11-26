@@ -26,6 +26,8 @@ owner:
 links:
   # - title: Curriculum
   #   url: /cv/
+  - title: News
+    url: /news/
   - title: Timeline
     url: /timeline/
   - title: Publications
