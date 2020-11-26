@@ -6,7 +6,6 @@ tags: [news]
 comments: false
 ---
 
-<h2> News </h2>
 
 <script>
 	(function($){
