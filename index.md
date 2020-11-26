@@ -11,7 +11,7 @@ image:
 
 <h2> News </h2>
 
-[Nov 2020] Our proposal for Workshop on Human Evaluation of NLP Systems has been accepted for EACL'21. More details soon. 
+⭐️ <span style="font-weight: bold;">[Nov 2020]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Our proposal for Workshop on Human Evaluation of NLP Systems has been accepted for EACL'21. More details soon. 
 <br />
 [Oct 2020] Serving on Program Committee for NeurIPS'20 workshops Human in the Loop (HLDS) and Wordplay. 
 <br />
