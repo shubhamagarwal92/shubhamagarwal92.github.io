@@ -8,11 +8,65 @@ title: Recent Publications
 ---
 
 
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+</script>
+
+
 ### 2020
 
 * [History for Visual Dialog: Do we really need it?](https://www.aclweb.org/anthology/2020.acl-main.728.pdf) <br />
 Shubham Agarwal, Trung Bui, Joon-Young Lee, Yannis Konstas and Verena Rieser <br />
 ACL 2020
+<br />
+<a href="javascript:toggleBibtex('agarwal2020history')">[BibTeX]</a>
+<a href="" target="_blank">[PDF]</a> <a href=""  target="_blank">[Talk]</a>
+</p>
+<div id="bib_agarwal2020history" class="bibtex noshow">
+<pre>
+@inproceedings{agarwal2020history,
+    title = "History for Visual Dialog: Do we really need it?",
+    author = "Agarwal, Shubham  and
+      Bui, Trung  and
+      Lee, Joon-Young  and
+      Konstas, Ioannis  and
+      Rieser, Verena",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+    month = jul,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.acl-main.728",
+    doi = "10.18653/v1/2020.acl-main.728",
+    pages = "8182--8197",
+}
+</pre>
+</div>
+
 [Talk](https://slideslive.com/38928892/history-for-visual-dialog-do-we-really-need-it)
 
 ### 2019
