@@ -3,7 +3,7 @@ layout: page
 description: "Shubham Agarwal"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: hawaii.jpg
+  feature: trees.jpg
 <!--  feature: grafiti.png-->
 <!--  feature: croatia.jpg-->
   
