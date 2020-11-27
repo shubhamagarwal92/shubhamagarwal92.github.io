@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home2
 description: "Shubham Agarwal"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
