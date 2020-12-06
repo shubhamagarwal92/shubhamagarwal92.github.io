@@ -4,7 +4,7 @@ permalink: /blog/
 tags: [blog]
 comments: false
 image:
-  feature: bokeh.jpg
+  feature: edi.jpg
 ---
 
 Medium handle: @shubhamagarwal92
