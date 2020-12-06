@@ -3,6 +3,8 @@ layout: page
 permalink: /news/
 title: News
 tags: [news]
+image:
+  feature: mountain.jpg
 comments: false
 ---
 
@@ -49,6 +51,8 @@ comments: false
 [Sept 2018] I’ll be attending ECCV 2018. Team Pikabot among top-3 teams at Visual Dialog Challenge in SiVL, ECCV 2018 .
 </div>
 
+
+### Social Media
 
 <a class="twitter-timeline" href="https://twitter.com/shubhamag1992" data-widget-id="338001751854686210">Tuits de @shubhamag1992</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
