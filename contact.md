@@ -17,11 +17,7 @@ shubhamagarwal92 AT gmail.com
 <br />
 Will be more than happy to discuss latest advancements in Deep Learning.
 <br />
-<h2>Contact:</h2>
-+44 07508460206
-<br />
-+91 8800250530
-<br />
+
 <h2>Address:</h2>
 EM 1.53
 <br />
