@@ -3,7 +3,7 @@ layout: page
 description: "Shubham Agarwal"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: deathvalley.jpg
+  feature: northernlights.jpg
 <!--  feature: grafiti.png-->
 <!--  feature: croatia.jpg-->
   
@@ -34,3 +34,8 @@ My research mostly focuses on visual grounding (symbol grounding) and context mo
 <h2> Visitors on the page - Thank you for visiting! </h2>
 
 <a href="https://info.flagcounter.com/jc9J"><img src="https://s11.flagcounter.com/map/jc9J/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
+
+<h2> Where are the banner images from? </h2>
+
+In case you are wondering, yes I have been to all these places! Yes, we own the copyright of these pictures! :fire: 
