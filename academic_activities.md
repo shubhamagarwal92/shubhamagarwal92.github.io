@@ -4,9 +4,25 @@ permalink: /academic_activities/
 title: Academic activites
 tags: [academic_activities]
 modified: 3-10-2014
+image:
+  feature: hawaiiwide.jpg
+
 comments: false
 ---
 
+This page is not actively maintained. Kindly see my pages for the latest academic activities: 
+
+* ACL Anthology -> [Link](https://www.aclweb.org/anthology/people/s/shubham-agarwal/)
+
+* GScholar -> [Link](https://scholar.google.com/citations?user=aSMFGScAAAAJ&hl=en)
+
+* Open Review -> [Link](https://openreview.net/profile?id=~Shubham_Agarwal3)
+
+* DBLP -> [Link](https://dblp.uni-trier.de/pers/hd/a/Agarwal_0001:Shubham)
+
+* Semantic Scholar -> [Link](https://www.semanticscholar.org/author/Shubham-Agarwal/144992211)
+
+Below information is pre-2020!
 
 ### Teaching Experience
 
