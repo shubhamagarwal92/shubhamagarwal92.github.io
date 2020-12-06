@@ -4,6 +4,9 @@ permalink: /publications/
 tags: [publications]
 modified: 8-7-2014
 comments: false
+image:
+  feature: malta.jpg
+
 title: Recent Publications
 ---
 
@@ -15,6 +18,10 @@ Shubham Agarwal, Trung Bui, Joon-Young Lee, Yannis Konstas and Verena Rieser <br
 ACL 2020
 <br />
 <a href="https://slideslive.com/38928892/history-for-visual-dialog-do-we-really-need-it"  target="_blank">[Talk]</a>
+
+* [ReproGen: Proposal for a Shared Task on Reproducibility of Human Evaluations in NLG](https://www.semanticscholar.org/paper/ReproGen%3A-Proposal-for-a-Shared-Task-on-of-Human-in-Belz-Agarwal/5f74c84885f0b5855dfd4be9856599f2610a1f75) <br />
+Anya Belz, Shubham Agarwal, Anastasia Shimorina and Ehud Reiter <br />
+INLG 2020
 
 ### 2019
 
