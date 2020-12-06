@@ -4,6 +4,8 @@ permalink: /contact/
 title: How to contact
 tags: [about]
 modified: 8-7-2014
+image:
+  feature: lake.jpg
 comments: false
 ---
 
