@@ -3,6 +3,8 @@ layout: page
 permalink: /blog/
 tags: [blog]
 comments: false
+image:
+  feature: bokeh.jpg
 ---
 
 Medium handle: @shubhamagarwal92
