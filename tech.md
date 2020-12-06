@@ -9,9 +9,11 @@ comments: false
 
 <!--### Technical Skills-->
 
+This page will not be actively maintained. Please check my Github for latest activity. Everything below is my expertise pre-2021!
+
 * Languages: Python, C, C++, Java, MySQL, PL-SQL, PHP
 * Softwares & Pkgs: Spark, Python (sklearn, nltk, pandas, numpy, plotly, bs4), R (dplyr,
-H2O, shiny, caret, ggplot2, reshape2), MATLAB 
+H2O, shiny, caret, ggplot2, reshape2), MATLAB, Neo4j 
 * Data Mining Tools: WEKA, Orange
 * Deep Learning: PyTorch, Keras, Tensorflow, Caffe, H2O, DIGITS (NVIDIA)
 * Experience in SparkSQL,MLLib,PySpark and Scala.
