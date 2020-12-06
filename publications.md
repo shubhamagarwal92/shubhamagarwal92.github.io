@@ -41,7 +41,8 @@ EMNLP workshop, SCAI, 2018
 
 * [Improving Context Modelling in Multimodal Dialogue Generation](https://arxiv.org/pdf/1810.11955.pdf) <br />
 Shubham Agarwal, Ondřej Dušek, Yannis Konstas and Verena Rieser <br />
-INLG, 2018
+INLG, 2018 <br />
+<a href="https://github.com/shubhamagarwal92/shubhamagarwal92.github.io/blob/master/assets/papers/INLG-poster.pdf"  target="_blank">[Poster]</a>
 
 * [Char2char Generation with Reranking for the E2E NLG Challenge](https://arxiv.org/pdf/1811.05826.pdf) <br />
 Shubham Agarwal, Marc Dymetman and Eric Gaussier <br />
