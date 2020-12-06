@@ -5,7 +5,7 @@ title: Code
 tags: [code]
 modified: 3-10-2014
 image:
-  feature: lake.jpg
+  feature: icelandwide.jpg
 comments: false
 ---
 
