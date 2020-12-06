@@ -3,6 +3,9 @@ layout: page
 permalink: /timeline/
 title: Timeline
 tags: [timeline]
+image:
+  feature: yosemite.jpg
+
 comments: false
 ---
 
@@ -116,19 +119,19 @@ comments: false
 
 <h2> Summary </h2>
 
-Refer the timeline tab for graphic visualization! 
+Refer the timeline above for graphic visualization! 
 
 #### UK (2017-Present)
 I am a PhD student at the <a href="https://sites.google.com/site/hwinteractionlab/">Interaction Lab </a>, Heriot Watt University, Edinburgh, UK. My PhD is funded by the Canadian startup Adeptmind Inc.  
 
 #### US (Summers 2019)
-I recently spent nice summers'19 in beautiful California at Adobe Research, San Jose, CA
+I spent nice summers'19 in beautiful California at Adobe Research, San Jose, CA
 
 #### France (2016-17)
 I did one year masters pursuing <strong>Data Science</strong> specialization (2016-17) in <a href="http://msiam.imag.fr">MSIAM</a> at Grenoble INP, Grenoble, France. My stay was supported by the IDEX scholarship. 
 <br />
 <br />
-I did an internship for my Master thesis at <a href="http://www.xrce.xerox.com/">Xerox Research Center Europe (XRCE)</a> (now Naver Labs Europe), Grenoble, France under the supervision of <a href="http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman"> Dr. Marc Dymetman</a> and <a href="http://ama.liglab.fr/~gaussier/"> Dr. Eric Gaussier </a>. 
+I also did an internship for my Master thesis at <a href="http://www.xrce.xerox.com/">Xerox Research Center Europe (XRCE)</a> (now Naver Labs Europe), Grenoble, France under the supervision of <a href="http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman"> Dr. Marc Dymetman</a> and <a href="http://ama.liglab.fr/~gaussier/"> Dr. Eric Gaussier </a>. 
 
 #### India (1992-2016)
 I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">Mathematics and Computing </a> from <a href="http://www.iitd.ac.in/">Indian Institute of Technology (IIT), Delhi </a> (2010-15). 
