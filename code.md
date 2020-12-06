@@ -4,10 +4,12 @@ permalink: /code/
 title: Code
 tags: [code]
 modified: 3-10-2014
+image:
+  feature: lake.jpg
 comments: false
 ---
 
-Please see my pinned repositories and commit history on Github for my latest activity. This page will not be maintained. 
+Please see my pinned repositories and commit history on Github for my latest activity. This page will not be maintained actively. 
 
 ### Deep Learning 
 
