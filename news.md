@@ -4,7 +4,7 @@ permalink: /news/
 title: News
 tags: [news]
 image:
-  feature: mountain.jpg
+  feature: croatiawide.jpg
 comments: false
 ---
 
