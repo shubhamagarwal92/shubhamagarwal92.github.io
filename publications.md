@@ -5,7 +5,7 @@ tags: [publications]
 modified: 8-7-2014
 comments: false
 image:
-  feature: malta.jpg
+  feature: deathvalley.jpg
 
 title: Recent Publications
 ---
