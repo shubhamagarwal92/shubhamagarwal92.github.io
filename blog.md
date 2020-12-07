@@ -4,7 +4,7 @@ permalink: /blog/
 tags: [blog]
 comments: false
 image:
-  feature: edi.jpg
+  feature: malta.jpg
 ---
 
 Medium handle: @shubhamagarwal92
