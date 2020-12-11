@@ -42,6 +42,9 @@ Visual Dialog Challenge, 2018
 * [Alana v2: Entertaining and Informative Open-domain Social Dialogue using Ontologies and Entity Linking](http://dex-microsites-prod.s3.amazonaws.com/alexaprize/2018/papers/Alana.pdf) <br />
 Amanda Cercas Curry, Ioannis Papaioannou, Alessandro Suglia, Shubham Agarwal, Igor Shalyminov, Xinnuo Xu, Ondřej Dušek, Arash Eshghi, Ioannis Konstas, Verena Rieser and Oliver Lemon <br />
 Alexa Prize proceedings, 2018
+<br />
+[<button type="button" class="btn btn-info">Proceedings</button>](http://dex-microsites-prod.s3.amazonaws.com/alexaprize/2018/papers/Alana.pdf)
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/10KAqRbhM3K6-DCy-qr8GQgCmPtNjaiQw/view?usp=sharing)
 
 * [A Knowledge-Grounded Multimodal Search-Based Conversational Agent](https://arxiv.org/pdf/1810.11954.pdf) <br />
 Shubham Agarwal, Ondřej Dušek, Yannis Konstas and Verena Rieser <br />
