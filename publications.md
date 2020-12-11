@@ -59,6 +59,7 @@ INLG, 2018 <br />
 Also as Oral at SiVL, ECCV, 2018 (Retracted, dont ask me why!)
 <br />
 [<button type="button" class="btn ">Slides</button>](https://drive.google.com/file/d/1E_OrBGmWD0MFF0WSoAev5rWgyzj3wWgh/view?usp=sharing)
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1EzepKH98cfuA7gw8Gb9JhPq0pYiotR07/view?usp=sharing)
 
 * [Char2char Generation with Reranking for the E2E NLG Challenge](https://arxiv.org/pdf/1811.05826.pdf) <br />
 Shubham Agarwal, Marc Dymetman and Eric Gaussier <br />
