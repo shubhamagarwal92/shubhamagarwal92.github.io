@@ -57,7 +57,10 @@ In the E2E NLG Challenge
 * [A surprisingly effective out-of-the-box char2char model on the E2E NLG Challenge dataset](https://www.aclweb.org/anthology/W17-5519.pdf) <br />
 Shubham Agarwal and Marc Dymetman <br />
 Special Interest Group on Discourse and Dialogue (SIGdial), 2017
-<a href="https://www.superlectures.com/sigdial2017/a-surprisingly-effective-out-of-the-box-char2char-model-on-the-e2e-nlg-challenge-dataset"  target="_blank">[Talk]</a>
+[<button type="button" class="btn btn-info">ACL anothology</button>](https://www.aclweb.org/anthology/W17-5519.pdf)
+[<button type="button" class="btn btn-warning">Talk</button>](https://www.superlectures.com/sigdial2017/a-surprisingly-effective-out-of-the-box-char2char-model-on-the-e2e-nlg-challenge-dataset)
+[<button type="button" class="btn">Poster</button>](https://drive.google.com/file/d/1q2c5xhVBizEbtl4fGnMmuoGznN-tCsYR/view?usp=sharing)
+[<button type="button" class="btn btn-danger">Slides</button>](https://drive.google.com/file/d/1dInbTlp3yqXQw4bpkXER1fj3sZ9bojoN/view?usp=sharing)  
 
 
 
