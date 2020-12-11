@@ -17,7 +17,11 @@ title: Recent Publications
 Shubham Agarwal, Trung Bui, Joon-Young Lee, Yannis Konstas and Verena Rieser <br />
 ACL 2020
 <br />
-<a href="https://slideslive.com/38928892/history-for-visual-dialog-do-we-really-need-it"  target="_blank">[Talk]</a>
+[<button type="button" class="btn btn-info">ACL anothology</button>](https://www.aclweb.org/anthology/2020.acl-main.728.pdf)
+[<button type="button" class="btn btn-warning">Talk</button>](https://slideslive.com/38928892/history-for-visual-dialog-do-we-really-need-it)
+[<button type="button" class="btn btn-success">Code</button>](https://github.com/shubhamagarwal92/visdial_conv/)  
+[<button type="button" class="btn btn-danger">Slides</button>](https://drive.google.com/file/d/1Oij4kfatY2gWg1sin4ykaSDsOZ_y7tAy/view?usp=sharing)  
+
 
 * [ReproGen: Proposal for a Shared Task on Reproducibility of Human Evaluations in NLG](https://www.semanticscholar.org/paper/ReproGen%3A-Proposal-for-a-Shared-Task-on-of-Human-in-Belz-Agarwal/5f74c84885f0b5855dfd4be9856599f2610a1f75) <br />
 Anya Belz, Shubham Agarwal, Anastasia Shimorina and Ehud Reiter <br />
