@@ -17,7 +17,7 @@ title: Recent Publications
 Shubham Agarwal, Trung Bui, Joon-Young Lee, Yannis Konstas and Verena Rieser <br />
 ACL 2020
 <br />
-[<button type="button" class="btn btn-info">ACL anothology</button>](https://www.aclweb.org/anthology/2020.acl-main.728.pdf)
+[<button type="button" class="btn btn-info">Paper</button>](https://www.aclweb.org/anthology/2020.acl-main.728.pdf)
 [<button type="button" class="btn btn-warning">Talk</button>](https://slideslive.com/38928892/history-for-visual-dialog-do-we-really-need-it)
 [<button type="button" class="btn btn-success">Code</button>](https://github.com/shubhamagarwal92/visdial_conv/)  
 [<button type="button" class="btn btn-danger">Slides</button>](https://drive.google.com/file/d/1Oij4kfatY2gWg1sin4ykaSDsOZ_y7tAy/view?usp=sharing)  
@@ -47,6 +47,9 @@ EMNLP workshop, SCAI, 2018
 Shubham Agarwal, Ondřej Dušek, Yannis Konstas and Verena Rieser <br />
 INLG, 2018 <br />
 <a href="https://github.com/shubhamagarwal92/shubhamagarwal92.github.io/blob/master/assets/papers/INLG-poster.pdf"  target="_blank">[Poster]</a>
+<br />
+Also presented at SiVL, ECCV, 2018 (Retracted, dont ask me why!)
+[<button type="button" class="btn btn-info">Slides</button>](https://drive.google.com/file/d/1E_OrBGmWD0MFF0WSoAev5rWgyzj3wWgh/view?usp=sharing)
 
 * [Char2char Generation with Reranking for the E2E NLG Challenge](https://arxiv.org/pdf/1811.05826.pdf) <br />
 Shubham Agarwal, Marc Dymetman and Eric Gaussier <br />
