@@ -19,8 +19,8 @@ ACL 2020
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://www.aclweb.org/anthology/2020.acl-main.728.pdf)
 [<button type="button" class="btn btn-warning">Talk</button>](https://slideslive.com/38928892/history-for-visual-dialog-do-we-really-need-it)
-[<button type="button" class="btn btn-success">Code</button>](https://github.com/shubhamagarwal92/visdial_conv/)  
-[<button type="button" class="btn btn-danger">Slides</button>](https://drive.google.com/file/d/1Oij4kfatY2gWg1sin4ykaSDsOZ_y7tAy/view?usp=sharing)  
+[<button type="button" class="btn btn-danger">Slides</button>](https://drive.google.com/file/d/1Oij4kfatY2gWg1sin4ykaSDsOZ_y7tAy/view?usp=sharing)
+[<button type="button" class="btn btn-success">Code</button>](https://github.com/shubhamagarwal92/visdial_conv/)
 
 
 * [ReproGen: Proposal for a Shared Task on Reproducibility of Human Evaluations in NLG](https://www.semanticscholar.org/paper/ReproGen%3A-Proposal-for-a-Shared-Task-on-of-Human-in-Belz-Agarwal/5f74c84885f0b5855dfd4be9856599f2610a1f75) <br />
@@ -42,13 +42,18 @@ Alexa Prize proceedings, 2018
 * [A Knowledge-Grounded Multimodal Search-Based Conversational Agent](https://arxiv.org/pdf/1810.11954.pdf) <br />
 Shubham Agarwal, Ondřej Dušek, Yannis Konstas and Verena Rieser <br />
 EMNLP workshop, SCAI, 2018
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1810.11954.pdf)
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/11XPLnWINkSw9myU3FiA4v27-zT0P6SGO/view?usp=sharing)
+<br />
+
 
 * [Improving Context Modelling in Multimodal Dialogue Generation](https://arxiv.org/pdf/1810.11955.pdf) <br />
 Shubham Agarwal, Ondřej Dušek, Yannis Konstas and Verena Rieser <br />
 INLG, 2018 <br />
-<a href="https://github.com/shubhamagarwal92/shubhamagarwal92.github.io/blob/master/assets/papers/INLG-poster.pdf"  target="_blank">[Poster]</a>
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1810.11955.pdf)
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1mKAWE4_2jRSSNydVlh_vaspQIoAlVaBl/view?usp=sharing)
 <br />
-Also presented at SiVL, ECCV, 2018 (Retracted, dont ask me why!)
+Also presented as Oral at SiVL, ECCV, 2018 (Retracted, dont ask me why!)
 [<button type="button" class="btn btn-info">Slides</button>](https://drive.google.com/file/d/1E_OrBGmWD0MFF0WSoAev5rWgyzj3wWgh/view?usp=sharing)
 
 * [Char2char Generation with Reranking for the E2E NLG Challenge](https://arxiv.org/pdf/1811.05826.pdf) <br />
@@ -60,15 +65,18 @@ INLG, 2018
 * [A char-based seq2seq submission to the E2E NLG Challenge](http://www.macs.hw.ac.uk/InteractionLab/E2E/final_papers/E2E-NLE.pdf) <br />
 Shubham Agarwal, Marc Dymetman and Eric Gaussier <br />
 In the E2E NLG Challenge
+[<button type="button" class="btn">Proceedings</button>](http://www.macs.hw.ac.uk/InteractionLab/E2E/final_papers/E2E-NLE.pdf)
+[<button type="button" class="btn">Ranking</button>](http://www.macs.hw.ac.uk/InteractionLab/E2E/#results)
+
 
 * [A surprisingly effective out-of-the-box char2char model on the E2E NLG Challenge dataset](https://www.aclweb.org/anthology/W17-5519.pdf) <br />
 Shubham Agarwal and Marc Dymetman <br />
 Special Interest Group on Discourse and Dialogue (SIGdial), 2017
-[<button type="button" class="btn btn-info">ACL anothology</button>](https://www.aclweb.org/anthology/W17-5519.pdf)
+[<button type="button" class="btn btn-info">Proceedings</button>](https://www.aclweb.org/anthology/W17-5519.pdf)
 [<button type="button" class="btn btn-warning">Talk</button>](https://www.superlectures.com/sigdial2017/a-surprisingly-effective-out-of-the-box-char2char-model-on-the-e2e-nlg-challenge-dataset)
-[<button type="button" class="btn btn-success">Poster</button>](https://drive.google.com/file/d/1q2c5xhVBizEbtl4fGnMmuoGznN-tCsYR/view?usp=sharing)  
-[<button type="button" class="btn">Poster</button>](https://drive.google.com/file/d/1q2c5xhVBizEbtl4fGnMmuoGznN-tCsYR/view?usp=sharing)
-[<button type="button" class="btn btn-danger">Slides</button>](https://drive.google.com/file/d/1dInbTlp3yqXQw4bpkXER1fj3sZ9bojoN/view?usp=sharing)  
+[<button type="button" class="btn btn-danger">Slides</button>](https://drive.google.com/file/d/1dInbTlp3yqXQw4bpkXER1fj3sZ9bojoN/view?usp=sharing)
+[<button type="button" class="btn btn-success">Poster</button>](https://drive.google.com/file/d/1q2c5xhVBizEbtl4fGnMmuoGznN-tCsYR/view?usp=sharing)
+ 
 
 
 
