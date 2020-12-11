@@ -42,6 +42,7 @@ Alexa Prize proceedings, 2018
 * [A Knowledge-Grounded Multimodal Search-Based Conversational Agent](https://arxiv.org/pdf/1810.11954.pdf) <br />
 Shubham Agarwal, Ondřej Dušek, Yannis Konstas and Verena Rieser <br />
 EMNLP workshop, SCAI, 2018
+<br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1810.11954.pdf)
 [<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/11XPLnWINkSw9myU3FiA4v27-zT0P6SGO/view?usp=sharing)
 <br />
@@ -53,7 +54,8 @@ INLG, 2018 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1810.11955.pdf)
 [<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1mKAWE4_2jRSSNydVlh_vaspQIoAlVaBl/view?usp=sharing)
 <br />
-Also presented as Oral at SiVL, ECCV, 2018 (Retracted, dont ask me why!)
+Also as Oral at SiVL, ECCV, 2018 (Retracted, dont ask me why!)
+<br />
 [<button type="button" class="btn btn-info">Slides</button>](https://drive.google.com/file/d/1E_OrBGmWD0MFF0WSoAev5rWgyzj3wWgh/view?usp=sharing)
 
 * [Char2char Generation with Reranking for the E2E NLG Challenge](https://arxiv.org/pdf/1811.05826.pdf) <br />
@@ -64,8 +66,9 @@ INLG, 2018
 
 * [A char-based seq2seq submission to the E2E NLG Challenge](http://www.macs.hw.ac.uk/InteractionLab/E2E/final_papers/E2E-NLE.pdf) <br />
 Shubham Agarwal, Marc Dymetman and Eric Gaussier <br />
-In the E2E NLG Challenge
-[<button type="button" class="btn">Proceedings</button>](http://www.macs.hw.ac.uk/InteractionLab/E2E/final_papers/E2E-NLE.pdf)
+In the E2E NLG Challenge, 2017
+<br />
+[<button type="button" class="btn btn-info">Proceedings</button>](http://www.macs.hw.ac.uk/InteractionLab/E2E/final_papers/E2E-NLE.pdf)
 [<button type="button" class="btn">Ranking</button>](http://www.macs.hw.ac.uk/InteractionLab/E2E/#results)
 
 
