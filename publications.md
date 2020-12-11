@@ -32,6 +32,7 @@ INLG 2020
 * [Ensemble based discriminative models for Visual Dialog Challenge 2018](https://arxiv.org/abs/2001.05865.pdf) <br />
 Shubham Agarwal and Raghav Goyal <br />
 Visual Dialog Challenge, 2018
+<br />
 [<button type="button" class="btn btn-info">Report</button>](https://arxiv.org/abs/2001.05865.pdf)
 [<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1x7qoT2ydHMnPTICJdZI4MlrmMclpF4B2/view?usp=sharing)
 
@@ -64,6 +65,7 @@ Also as Oral at SiVL, ECCV, 2018 (Retracted, dont ask me why!)
 * [Char2char Generation with Reranking for the E2E NLG Challenge](https://arxiv.org/pdf/1811.05826.pdf) <br />
 Shubham Agarwal, Marc Dymetman and Eric Gaussier <br />
 INLG, 2018
+<br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1811.05826.pdf)
 [<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1e4qLDOtjRkiYJeh0Rx548HbKGucrHYa7/view?usp=sharing)
 
