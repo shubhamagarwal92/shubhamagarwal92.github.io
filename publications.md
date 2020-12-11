@@ -32,6 +32,9 @@ INLG 2020
 * [Ensemble based discriminative models for Visual Dialog Challenge 2018](https://arxiv.org/abs/2001.05865.pdf) <br />
 Shubham Agarwal and Raghav Goyal <br />
 Visual Dialog Challenge, 2018
+[<button type="button" class="btn btn-info">Report</button>](https://arxiv.org/abs/2001.05865.pdf)
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1x7qoT2ydHMnPTICJdZI4MlrmMclpF4B2/view?usp=sharing)
+
 
 ### 2018
 
@@ -47,7 +50,6 @@ EMNLP workshop, SCAI, 2018
 [<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/11XPLnWINkSw9myU3FiA4v27-zT0P6SGO/view?usp=sharing)
 <br />
 
-
 * [Improving Context Modelling in Multimodal Dialogue Generation](https://arxiv.org/pdf/1810.11955.pdf) <br />
 Shubham Agarwal, Ondřej Dušek, Yannis Konstas and Verena Rieser <br />
 INLG, 2018 <br />
@@ -56,11 +58,14 @@ INLG, 2018 <br />
 <br />
 Also as Oral at SiVL, ECCV, 2018 (Retracted, dont ask me why!)
 <br />
-[<button type="button" class="btn btn-info">Slides</button>](https://drive.google.com/file/d/1E_OrBGmWD0MFF0WSoAev5rWgyzj3wWgh/view?usp=sharing)
+[<button type="button" class="btn ">Slides</button>](https://drive.google.com/file/d/1E_OrBGmWD0MFF0WSoAev5rWgyzj3wWgh/view?usp=sharing)
 
 * [Char2char Generation with Reranking for the E2E NLG Challenge](https://arxiv.org/pdf/1811.05826.pdf) <br />
 Shubham Agarwal, Marc Dymetman and Eric Gaussier <br />
 INLG, 2018
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1811.05826.pdf)
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1e4qLDOtjRkiYJeh0Rx548HbKGucrHYa7/view?usp=sharing)
+
 
 ### 2017
 
@@ -79,7 +84,3 @@ Special Interest Group on Discourse and Dialogue (SIGdial), 2017
 [<button type="button" class="btn btn-warning">Talk</button>](https://www.superlectures.com/sigdial2017/a-surprisingly-effective-out-of-the-box-char2char-model-on-the-e2e-nlg-challenge-dataset)
 [<button type="button" class="btn btn-danger">Slides</button>](https://drive.google.com/file/d/1dInbTlp3yqXQw4bpkXER1fj3sZ9bojoN/view?usp=sharing)
 [<button type="button" class="btn btn-success">Poster</button>](https://drive.google.com/file/d/1q2c5xhVBizEbtl4fGnMmuoGznN-tCsYR/view?usp=sharing)
- 
-
-
-
