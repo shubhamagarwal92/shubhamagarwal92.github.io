@@ -10,6 +10,11 @@ image:
 title: Recent Publications
 ---
 
+### 2021
+
+* A Systematic Review of\\Reproducibility Research in Natural Language Processing <br />
+Anya Belz, Shubham Agarwal, Anastasia Shimorina and Ehud Reiter <br />
+EACL 2021
 
 ### 2020
 
