@@ -44,9 +44,9 @@ comments: false
 <br />
 [Nov 2018] I am attending Amazon AWS Summit'18 in Las Vegas. Team Alana places third at Amazon Alexa Prize Challenge'18. Wohoo
 <br />
-[Nov 2018] I’ll be attending [INLG](https://inlg2018.uvt.nl/) 2018 in Tilburg, The Netherlands. 2 papers accepted as poster presentations in INLG 2018.
+[Nov 2018] I’ll be attending <a href="https://inlg2018.uvt.nl/">INLG'18 </a> 2018 in Tilburg, The Netherlands. 2 papers accepted as poster presentations in INLG 2018.
 <br />
-[Oct 2018] I’ll be attending EMNLP 2018 to present my work at [SCAI-EMNLP'18]((https://scai.info/2018/))
+[Oct 2018] I’ll be attending EMNLP 2018 to present my work at <a href="https://scai.info/2018/">SCAI-EMNLP'18 </a>.
 <br />
 [Sept 2018] I’ll be attending ECCV 2018. Team Pikabot among top-3 teams at Visual Dialog Challenge in SiVL, ECCV 2018 .
 </div>
@@ -54,5 +54,5 @@ comments: false
 
 ### Social Media
 
-<a class="twitter-timeline" href="https://twitter.com/shubhamag1992" data-widget-id="338001751854686210">Tuits de @shubhamag1992</a>
+<a class="twitter-timeline" href="https://twitter.com/shubhamag1992" data-widget-id="338001751854686210">Tweets from @shubhamag1992</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
