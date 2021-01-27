@@ -30,9 +30,7 @@ UK
 EH14 4AS
 
 <h2>PhD Advice:</h2>
-I get a lot of mails from prospective PhD students asking for my advice in their search for a position in the UK/Europe. Here is my answer!
-
-https://twitter.com/shubhamag1992/status/1338049861640318980
+I get a lot of mails from prospective PhD students asking for my advice in their search for a position in the UK/Europe. Here is my [answer](https://twitter.com/shubhamag1992/status/1338049861640318980)!
 
 </section>
 
