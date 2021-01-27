@@ -16,7 +16,7 @@ image:
 
 Deep Learning, Vision and Language, Multimodal Dialog Generation, Conversational AI, Visual Dialog
 <br />
-I am particularly interested in Deep Learning and its interdisciplinary applications (V&L). Check out <a href="https://github.com/shubhamagarwal92">github </a> for my latest activity. 
+I am particularly interested in Deep Learning and its interdisciplinary applications (V&L). Check out <a href="https://github.com/shubhamagarwal92">Github </a> for my latest activity. 
 
 Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distance/shubham-agarwal-0001/paul-erdos"> here</a>. 
 
