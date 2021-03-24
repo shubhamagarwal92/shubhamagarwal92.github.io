@@ -15,6 +15,8 @@ title: Recent Publications
 * A Systematic Review of Reproducibility Research in Natural Language Processing <br />
 Anya Belz, Shubham Agarwal, Anastasia Shimorina and Ehud Reiter <br />
 EACL 2021
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2103.07929.pdf)
 
 ### 2020
 
@@ -31,6 +33,9 @@ ACL 2020
 * [ReproGen: Proposal for a Shared Task on Reproducibility of Human Evaluations in NLG](https://www.semanticscholar.org/paper/ReproGen%3A-Proposal-for-a-Shared-Task-on-of-Human-in-Belz-Agarwal/5f74c84885f0b5855dfd4be9856599f2610a1f75) <br />
 Anya Belz, Shubham Agarwal, Anastasia Shimorina and Ehud Reiter <br />
 INLG 2020
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://www.aclweb.org/anthology/2020.inlg-1.29.pdf)
+
 
 ### 2019
 
