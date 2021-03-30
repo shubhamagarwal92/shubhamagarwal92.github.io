@@ -17,6 +17,7 @@ Anya Belz, Shubham Agarwal, Anastasia Shimorina and Ehud Reiter <br />
 EACL 2021
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2103.07929.pdf)
+[<button type="button" class="btn btn-danger">Slides</button>](https://docs.google.com/presentation/d/1r00mLOpf8tcGcskv5oSo6JjzMtpVEh6X0Mw89HcvD5A/edit?usp=sharing)
 
 ### 2020
 
