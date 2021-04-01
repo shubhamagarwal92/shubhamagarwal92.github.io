@@ -54,9 +54,9 @@ comments: false
 
 ### Media Coverage
 
-[Amazon Alexa Prize 2018 finalists: Alana AI](https://www.youtube.com/watch?v=dY9MaAxdYsg&ab_channel=Alana)
-[Alana: the chit-chat bot](https://www.bbc.co.uk/programmes/p06jt7j4)
-[Heriot-Watt reaches Amazon Alexa Prize final, for the second year running](https://futurescot.com/heriot-watt-amazon-alexa-prize-final/)
+[Amazon Alexa Prize 2018 finalists: Alana AI](https://www.youtube.com/watch?v=dY9MaAxdYsg&ab_channel=Alana) <br />
+[Alana: the chit-chat bot](https://www.bbc.co.uk/programmes/p06jt7j4) <br />
+[Heriot-Watt reaches Amazon Alexa Prize final, for the second year running](https://futurescot.com/heriot-watt-amazon-alexa-prize-final/) <br />
 [Heriot-Watt represents UK in global Amazon competition](https://www.hw.ac.uk/news/articles/2018/heriot-watt-represents-uk-in-global-amazon.htm)
 
 ### Social Media
