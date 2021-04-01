@@ -52,6 +52,10 @@ comments: false
 </div>
 
 
+### Media Coverage
+
+[Heriot-Watt reaches Amazon Alexa Prize final, for the second year running](https://futurescot.com/heriot-watt-amazon-alexa-prize-final/)
+
 ### Social Media
 
 <a class="twitter-timeline" href="https://twitter.com/shubhamag1992" data-widget-id="338001751854686210">Tweets from @shubhamag1992</a>
