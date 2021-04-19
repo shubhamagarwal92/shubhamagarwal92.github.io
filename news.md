@@ -22,13 +22,17 @@ comments: false
  
  <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:400px;width:700px;font:25px/30px;font-face: Inherit; overflow:auto;">
 
-⭐️ <span style="font-weight: bold;">[Nov 2020]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Our proposal for Workshop on Human Evaluation of NLP Systems has been accepted for EACL'21. More details soon. 
+⭐️ <span style="font-weight: bold;">[Nov 2020]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> We are organizing the shared task on the Reproducibility of Human Evaluations in NLG at INLG'21. <a href="https://reprogen.github.io/">Link for ReproGen'21</a>
+<br />
+[Apr 2021] Our review on Reproducibility Research in NLP has been accepted at EACL'21.
+<br />
+[Apr 2021] We are organizing the Workshop on Human Evaluation of NLP Systems at EACL'21.
 <br />
 [Oct 2020] Serving on Program Committee for NeurIPS'20 workshops Human in the Loop (HLDS) and Wordplay. 
 <br />
 [Oct 2020] I am reviewing for NeurIPS'21, ACL'21, ICLR'21, EACL'21, DSTC9'21 (AAAI'21), NeurIPS'20 (WS), ACL'20 demo, COLING'20, INLG'20 (WS), IJCAI'20, HAI'20.
 <br />
-[Oct 2020] Our proposal for ReproGen shared task accepted at INLG'20. More details soon.
+[Oct 2020] Our proposal for ReproGen shared task accepted at INLG'20.
 <br />
 [Sept 2020] We are organizing 1st Workshop on Evaluating NLG Evaluation (EvalNLGEval) at INLG'20
 <br />
