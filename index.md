@@ -36,12 +36,11 @@ My research mostly focuses on visual grounding (symbol grounding) and context mo
 <a href="https://info.flagcounter.com/jc9J"><img src="https://s11.flagcounter.com/map/jc9J/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 
-<h2> Where are the banner images from? </h2>
+<h2> Recreational </h2>
+
+#### Where are the banner images from?
 
 In case you are wondering, yes I have been to all these places! Yes, we own the copyright of these pictures! The images are from Death Valley, Yosemite (US), Northen lights in Iceland, Malta, Hawaii, Croatia, Vienna, Edinburgh. 
-
-
-<h2> Recreational </h2>
 
 #### Countries visited
 
