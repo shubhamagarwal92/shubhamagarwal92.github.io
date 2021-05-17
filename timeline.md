@@ -138,9 +138,3 @@ I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">
 <br />
 <br />
 Thereafter, I worked as a <strong>Data Scientist</strong> for 2015-16 in <a href="http://trulymadly.com/">TrulyMaldy Matchmakers Pvt. Ltd.</a>, in the online dating domain.
-
-
-
-<h2> Countries visited </h2>
-
-<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:99999999999999999999999&chld=IN|US|GB|VA|CH|ES|SK|PT|NL|MC|MT|IT|IS|HU|GR|DE|FR|FI|DK|CZ|HR|BE|AT" width="450" height="300" ><br/>Visited 23 countries (10.2%)<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of The World</a>
