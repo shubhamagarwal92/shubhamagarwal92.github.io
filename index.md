@@ -39,3 +39,14 @@ My research mostly focuses on visual grounding (symbol grounding) and context mo
 <h2> Where are the banner images from? </h2>
 
 In case you are wondering, yes I have been to all these places! Yes, we own the copyright of these pictures! The images are from Death Valley, Yosemite (US), Northen lights in Iceland, Malta, Hawaii, Croatia, Vienna, Edinburgh. 
+
+
+<h2> Recreational </h2>
+
+#### Countries visited
+
+<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:99999999999999999999999&chld=IN|US|GB|VA|CH|ES|SK|PT|NL|MC|MT|IT|IS|HU|GR|DE|FR|FI|DK|CZ|HR|BE|AT" width="450" height="300" ><br/>Visited 23 countries (10.2%)<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of The World</a>
+
+#### Collections
+
+<a href=https://mycollections.altova.com/run?d=/anonymous/PublishedCollections&in1=4390606F-2471-4534-9117-9F347A9ACCF7> Collection of Bank notes </a>
