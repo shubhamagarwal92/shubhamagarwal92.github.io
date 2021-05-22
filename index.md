@@ -49,3 +49,4 @@ In case you are wondering, yes I have been to all these places! Yes, we own the 
 #### Collections
 
 * <a href="https://mycollections.altova.com/run?d=/anonymous/PublishedCollections&in1=4390606F-2471-4534-9117-9F347A9ACCF7"> Collection of Bank notes (26 countries) </a>
+* <a href="https://mycollections.altova.com/run?d=/anonymous/PublishedCollections&in1=937AA70A-6D78-4308-897A-0F96AE050F39"> Coins from round the world </a>
