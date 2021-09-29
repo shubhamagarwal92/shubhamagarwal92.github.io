@@ -12,7 +12,7 @@ image:
 
 <!--### Technical Skills-->
 
-This page will not be actively maintained. Please check my Github for latest activity. Everything below is my expertise pre-2021!
+This page will not be actively maintained. Please check my Github for latest activity. Last updated 2017.
 
 * Languages: Python, C, C++, Java, MySQL, PL-SQL, PHP
 * Softwares & Pkgs: Spark, Python (sklearn, nltk, pandas, numpy, plotly, bs4), R (dplyr,
