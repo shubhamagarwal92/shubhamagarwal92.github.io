@@ -11,6 +11,19 @@ comments: false
 
 <ul class="timeline">
 
+<!-- Item 8 -->
+<li>
+	<div class="direction-l">
+		<div class="flag-wrapper">
+			<span class="flag">Pulse Labs AI</span>
+			<span class="time-wrapper"><span class="time">2021 - Present</span></span>
+		</div>
+		<div class="desc">Research Scientist (Remotely)</div>
+	</div>
+</li>
+
+	
+	
 <!-- Item 9 -->
 <li>
 	<div class="direction-r">
@@ -40,7 +53,7 @@ comments: false
 			<span class="flag">Amazon Alexa Prize Socialbot Grand Challenge</span>
 			<span class="time-wrapper"><span class="time">2018</span></span>
 		</div>
-		<div class="desc">Alana (Edinburgh, UK)</div>
+		<div class="desc"> (Edinburgh, UK)</div>
 	</div>
 </li>
 
@@ -50,7 +63,7 @@ comments: false
 	<div class="direction-l">
 		<div class="flag-wrapper">
 			<span class="flag">Interaction Lab (Adeptmind Scholar)</span>
-			<span class="time-wrapper"><span class="time">2017 - Present</span></span>
+			<span class="time-wrapper"><span class="time">2017 - 2021</span></span>
 		</div>
 		<div class="desc">Ph.D. Student (Edinburgh, UK)</div>
 	</div>
@@ -121,8 +134,8 @@ comments: false
 
 Refer the timeline above for graphic visualization! 
 
-#### UK (2017-Present)
-I am a PhD student at the <a href="https://sites.google.com/site/hwinteractionlab/">Interaction Lab </a>, Heriot Watt University, Edinburgh, UK. My PhD is funded by the Canadian startup Adeptmind Inc.  
+#### UK (2017-2020)
+I was a PhD student at the <a href="https://sites.google.com/site/hwinteractionlab/">Interaction Lab </a>, Edinburgh, UK. My PhD was funded by the Canadian startup Adeptmind Inc.  
 
 #### US (Summers 2019)
 I spent nice summers'19 in beautiful California at Adobe Research, San Jose, CA
@@ -133,7 +146,7 @@ I did one year masters pursuing <strong>Data Science</strong> specialization (20
 <br />
 I also did an internship for my Master thesis at <a href="http://www.xrce.xerox.com/">Xerox Research Center Europe (XRCE)</a> (now Naver Labs Europe), Grenoble, France under the supervision of <a href="http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman"> Dr. Marc Dymetman</a> and <a href="http://ama.liglab.fr/~gaussier/"> Dr. Eric Gaussier </a>. 
 
-#### India (1992-2016)
+#### India (1992-2016) (2020-Present)
 I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">Mathematics and Computing </a> from <a href="http://www.iitd.ac.in/">Indian Institute of Technology (IIT), Delhi </a> (2010-15). 
 <br />
 <br />
