@@ -9,7 +9,7 @@ image:
 comments: false
 ---
 
-Please see my pinned repositories and commit history on Github for my latest activity. This page will not be maintained actively. 
+Please see my pinned repositories and commit history on Github for my latest activity. This page will not be maintained actively. Pre 2017:
 
 ### Deep Learning 
 
