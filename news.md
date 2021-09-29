@@ -22,7 +22,7 @@ comments: false
  
  <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:400px;width:700px;font:25px/30px;font-face: Inherit; overflow:auto;">
 
-⭐️ <span style="font-weight: bold;">[May 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Finally a Doctor! 
+⭐️ <span style="font-weight: bold;">[Sept 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Finally a Doctor! 
 <br />	
 ⭐️ <span style="font-weight: bold;">[May 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Successfully defended my PhD Thesis
 <br />
