@@ -70,6 +70,7 @@ EMNLP workshop, SCAI, 2018
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1810.11954.pdf)
 [<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/11XPLnWINkSw9myU3FiA4v27-zT0P6SGO/view?usp=sharing)
+[<button type="button" class="btn btn-success">Code</button>](https://github.com/shubhamagarwal92/mmd)
 <br />
 
 * [Improving Context Modelling in Multimodal Dialogue Generation](https://arxiv.org/pdf/1810.11955.pdf) <br />
@@ -77,6 +78,7 @@ Shubham Agarwal, Ondřej Dušek, Yannis Konstas and Verena Rieser <br />
 INLG, 2018 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/1810.11955.pdf)
 [<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1mKAWE4_2jRSSNydVlh_vaspQIoAlVaBl/view?usp=sharing)
+[<button type="button" class="btn btn-success">Code</button>](https://github.com/shubhamagarwal92/mmd)
 <br />
 Also as Oral at SiVL, ECCV, 2018 (Retracted, dont ask me why!)
 <br />
