@@ -22,7 +22,9 @@ comments: false
  
  <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:400px;width:700px;font:25px/30px;font-face: Inherit; overflow:auto;">
 
-⭐️ <span style="font-weight: bold;">[Apr 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> We are organizing the shared task on the Reproducibility of Human Evaluations in NLG at INLG'21. <a href="https://reprogen.github.io/">Link for ReproGen'21</a>
+⭐️ <span style="font-weight: bold;">[May 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Finally a Doctor! 
+⭐️ <span style="font-weight: bold;">[May 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Successfully defended my PhD Thesis
+[Apr 2021] We are organizing the shared task on the Reproducibility of Human Evaluations in NLG at INLG'21. <a href="https://reprogen.github.io/">Link for ReproGen'21</a>
 <br />
 [Apr 2021] Our review on Reproducibility Research in NLP has been accepted at EACL'21.
 <br />
