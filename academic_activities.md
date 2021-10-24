@@ -22,6 +22,8 @@ This page is not actively maintained. Kindly see my pages for the latest academi
 
 * Semantic Scholar -> [Link](https://www.semanticscholar.org/author/Shubham-Agarwal/144992211)
 
+* ORCID -> [Link](https://orcid.org/0000-0002-2977-9615)
+
 Below information is pre-2020!
 
 ### Teaching Experience
