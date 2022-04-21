@@ -26,7 +26,7 @@ comments: false
 <br />	
 ⭐️ <span style="font-weight: bold;">[Sept 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Finally a Doctor! 
 <br />		
-⭐️ <span style="font-weight: bold;">[Sept 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Started working as Research Scientist at PulseLabs remotely.  
+⭐️ <span style="font-weight: bold;">[July 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Started working as Research Scientist at PulseLabs remotely.  
 <br />	
 [May 2021]Successfully defended my PhD Thesis
 <br />
