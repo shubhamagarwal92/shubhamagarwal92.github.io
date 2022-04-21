@@ -22,9 +22,13 @@ comments: false
  
  <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:400px;width:700px;font:25px/30px;font-face: Inherit; overflow:auto;">
 
-⭐️ <span style="font-weight: bold;">[Sept 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Finally a Doctor! 
+[Apr 2022] I am reviewing for ICML'22, ICLR'22, ICLR'21, NeurIPS'21, ACL'21, EMNLP'21, EACL'21, DSTC9'21 (AAAI'21), NeurIPS'20 (WS), ACL'20 demo, COLING'20, INLG'20 (WS), IJCAI'20, HAI'20.
 <br />	
-⭐️ <span style="font-weight: bold;">[May 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Successfully defended my PhD Thesis
+⭐️ <span style="font-weight: bold;">[Sept 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Finally a Doctor! 
+<br />		
+⭐️ <span style="font-weight: bold;">[Sept 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Started working as Research Scientist at PulseLabs remotely.  
+<br />	
+[May 2021]Successfully defended my PhD Thesis
 <br />
 [Apr 2021] We are organizing the shared task on the Reproducibility of Human Evaluations in NLG at INLG'21. <a href="https://reprogen.github.io/">Link for ReproGen'21</a>
 <br />
@@ -33,8 +37,6 @@ comments: false
 [Apr 2021] We are organizing the Workshop on Human Evaluation of NLP Systems at EACL'21.
 <br />
 [Oct 2020] Serving on Program Committee for NeurIPS'20 workshops Human in the Loop (HLDS) and Wordplay. 
-<br />
-[Oct 2020] I am reviewing for ICML'22, ICLR'22, ICLR'21, NeurIPS'21, ACL'21, EMNLP'21, EACL'21, DSTC9'21 (AAAI'21), NeurIPS'20 (WS), ACL'20 demo, COLING'20, INLG'20 (WS), IJCAI'20, HAI'20.
 <br />
 [Oct 2020] Our proposal for ReproGen shared task accepted at INLG'20.
 <br />
