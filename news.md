@@ -22,12 +22,12 @@ comments: false
  
  <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:400px;width:700px;font:25px/30px;font-face: Inherit; overflow:auto;">
 
-[Apr 2022] I am reviewing for ICML'22, ICLR'22, ICLR'21, NeurIPS'21, ACL'21, EMNLP'21, EACL'21, DSTC9'21 (AAAI'21), NeurIPS'20 (WS), ACL'20 demo, COLING'20, INLG'20 (WS), IJCAI'20, HAI'20.
-<br />	
 ⭐️ <span style="font-weight: bold;">[Sept 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Finally a Doctor! 
 <br />		
-⭐️ <span style="font-weight: bold;">[July 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Started working as Research Scientist at PulseLabs remotely.  
+⭐️ <span style="font-weight: bold;">[July 2021]</span>  <span style="color:red;"> ♨️ ♨️</span> Started working as Research Scientist at PulseLabs remotely.  
 <br />	
+[June 2021] I am reviewing for ICML'22, ICLR'22, ICLR'21, NeurIPS'21, ACL'21, EMNLP'21, EACL'21, DSTC9'21 (AAAI'21), NeurIPS'20 (WS), ACL'20 demo, COLING'20, INLG'20 (WS), IJCAI'20, HAI'20.
+<br />		
 [May 2021]Successfully defended my PhD Thesis
 <br />
 [Apr 2021] We are organizing the shared task on the Reproducibility of Human Evaluations in NLG at INLG'21. <a href="https://reprogen.github.io/">Link for ReproGen'21</a>
