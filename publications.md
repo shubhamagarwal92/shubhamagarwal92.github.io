@@ -17,9 +17,9 @@ Abhishek Mukhopadhyay, Shubham Agarwal, Patrick Dylan Zwick and Pradipta Biswas 
 AutoUI, ACM 2022
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2208.10270)
-<!-- [<button type="button" class="btn btn-danger">Video</button>](https://indianinstituteofscience-my.sharepoint.com/personal/abhishekmukh_iisc_ac_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabhishekmukh%5Fiisc%5Fac%5Fin%2FDocuments%2FBooks%2FAutoUI%5FWiP%5F6777%2Emp4&ga=1)
+[<button type="button" class="btn btn-danger">Video</button>](https://indianinstituteofscience-my.sharepoint.com/personal/abhishekmukh_iisc_ac_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fabhishekmukh%5Fiisc%5Fac%5Fin%2FDocuments%2FBooks%2FAutoUI%5FWiP%5F6777%2Emp4&ga=1)
 [<button type="button" class="btn btn-success">Poster</button>](https://drive.google.com/file/d/1JUM5YI-KZIN5yyI2ARnLwu_akhT4k32_/view?usp=sharing)
- -->
+
 
 ### 2021
 
