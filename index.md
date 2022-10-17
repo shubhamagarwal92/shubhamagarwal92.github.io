@@ -11,6 +11,10 @@ image:
 
 "Science is not only a discipline of reason but also of passion and love" - Stephen Hawking
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://linkedin.com/in/shubham-agarwal-4b215146)
+[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](http://twitter.com/shubhamag1992)
+[<img src="https://img.shields.io/badge/Scholar-%230077B5.svg?&style=for-the-badge&logo=google-scholar&logoColor=blue&color=white" />](http://scholar.google.es/citations?user=aSMFGScAAAAJ)
+
 
 <h2> Research Interest </h2>
 
