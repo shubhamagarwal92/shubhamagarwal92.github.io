@@ -50,7 +50,7 @@ comments: false
 <li>
 	<div class="direction-r">
 		<div class="flag-wrapper">
-			<span class="flag">Amazon Alexa Prize Socialbot Grand Challenge</span>
+			<span class="flag">Amazon Alexa Prize Challenge</span>
 			<span class="time-wrapper"><span class="time">2018</span></span>
 		</div>
 		<div class="desc"> (Edinburgh, UK)</div>
@@ -62,7 +62,7 @@ comments: false
 <li>
 	<div class="direction-l">
 		<div class="flag-wrapper">
-			<span class="flag">Interaction Lab (Adeptmind Scholar)</span>
+			<span class="flag">Interaction Lab (Adeptmind Inc.)</span>
 			<span class="time-wrapper"><span class="time">2017 - 2021</span></span>
 		</div>
 		<div class="desc">Ph.D. Student (Edinburgh, UK)</div>
@@ -86,7 +86,7 @@ comments: false
 <li>
 	<div class="direction-l">
 		<div class="flag-wrapper">
-			<span class="flag">Xerox Research Center Europe (XRCE)</span>
+			<span class="flag">Xerox Research (XRCE)</span>
 			<span class="time-wrapper"><span class="time">2017</span></span>
 		</div>
 		<div class="desc">Research Intern (Grenoble, France)</div>
