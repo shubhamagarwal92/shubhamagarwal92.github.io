@@ -144,7 +144,7 @@ Thereafter, I worked as a <strong>Data Scientist</strong> for a year in <a href=
 Currently, working as a Research Scientist at Pulse Labs remotely.
 
 #### US (Summers 2019)
-I spent nice summers'19 in beautiful California at Adobe Research, San Jose, CA
+I spent nice summers'19 in beautiful California at Adobe Research, San Jose, CA, US. 
 
 #### UK (2017-2020)
 I was a PhD student at the Interaction Lab, Edinburgh, UK. My PhD was funded by the Canadian startup Adeptmind Inc.  
@@ -153,4 +153,4 @@ I was a PhD student at the Interaction Lab, Edinburgh, UK. My PhD was funded by 
 I did one year masters pursuing <strong>Data Science</strong> specialization (2016-17) in <a href="http://msiam.imag.fr">MSIAM</a> at Grenoble INP, Grenoble, France. My stay was supported by the IDEX scholarship. 
 <br />
 <br />
-I also did an internship for my Master thesis at <a href="http://www.xrce.xerox.com/">Xerox Research Center Europe (XRCE)</a> (now Naver Labs Europe), Grenoble, France under the supervision of <a href="http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman"> Dr. Marc Dymetman</a> and <a href="http://ama.liglab.fr/~gaussier/"> Dr. Eric Gaussier </a>. 
+I also did an internship for my Master thesis at <a href="http://www.xrce.xerox.com/">Xerox Research Center Europe (XRCE)</a> (now Naver Labs Europe), Grenoble, France under the supervision of <a href="http://www.xrce.xerox.com/About-XRCE/People/Marc-Dymetman"> Dr. Marc Dymetman</a> and <a href="http://ama.liglab.fr/~gaussier/"> Dr. Eric Gaussier.</a>
