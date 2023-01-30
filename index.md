@@ -20,7 +20,7 @@ image:
 
 <h2> Research Interest </h2>
 
-Deep Learning, Vision and Language, Multimodal Dialog Generation, Conversational AI, Visual Dialog
+Deep Learning, Natural Language Processing (NLP), Vision and Language, Conversational AI, Multimodal Dialog Generation, Visual Dialog
 <br />
 I am particularly interested in Deep Learning and its interdisciplinary applications (V&L). Check out <a href="https://github.com/shubhamagarwal92">Github </a> for my latest activity. 
 
@@ -30,7 +30,7 @@ Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distanc
 Past: @AdobeResearch | @GSoC | @XRCE | @IITDelhi
 <br />
 <br />
-Challenges: Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialog Challenge' 18 | NLE @ E2E NLG Challenge' 17
+Research Challenges: Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialog Challenge' 18 | NLE @ E2E NLG Challenge' 17
 
 <h2> My (customary) bio </h2>
   
