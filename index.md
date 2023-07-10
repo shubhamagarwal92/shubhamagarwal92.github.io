@@ -32,7 +32,7 @@ Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distanc
 Current: MILA | ServiceNow Research | University of Montreal (HEC Montreal)
 <br />
 <br />
-Past: @Pulselabs | @AdobeResearch | @GSoC | @XRCE | @TrulyMadly | @IITDelhi
+Past: @PulselabsAI | @AdobeResearch | @GSoC | @XRCE | @TrulyMadly | @IITDelhi
 <br />
 <br />
 Past Research Challenges: Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialog Challenge' 18 | NLE @ E2E NLG Challenge' 17
@@ -55,10 +55,10 @@ In case you are wondering, yes I have been to all these places! Yes, we own the 
 
 #### Countries visited
 
-<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:999999999999999999999999999&chld=IN|US|GB|VA|CH|ES|SK|PT|NL|MC|MT|IT|IS|HU|GR|DE|FR|FI|DK|CZ|HR|BE|AT|MV|VN|SG|TH|AE|CA" width="500" height="400" ><br/>visited 29 countries (12.8%)<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of The World</a>
+<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:999999999999999999999999999&chld=IN|US|GB|VA|CH|ES|SK|PT|NL|MC|MT|IT|IS|HU|GR|DE|FR|FI|DK|CZ|HR|BE|AT|MV|VN|SG|TH|AE|CA" width="600" height="400" ><br/>visited 29 countries (12.8%)<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of The World</a>
 
 
-<img src="http://chart.apis.google.com/chart?cht=map:fixed=8,65,37,98&chs=400x400&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:99999999999999999&chld=IN-GA|IN-UL|IN-UP|IN-WB|IN-SK|IN-RJ|IN-PB|IN-OR|IN-MH|IN-KL|IN-KA|IN-HP|IN-HR|IN-AP|IN-CH|IN-DL|IN-JK" width="500" height="400" ><br/>visited 17 states (48.5%)<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map</a>
+<img src="http://chart.apis.google.com/chart?cht=map:fixed=8,65,37,98&chs=400x400&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:99999999999999999&chld=IN-GA|IN-UL|IN-UP|IN-WB|IN-SK|IN-RJ|IN-PB|IN-OR|IN-MH|IN-KL|IN-KA|IN-HP|IN-HR|IN-AP|IN-CH|IN-DL|IN-JK" width="600" height="350" ><br/>visited 17 states (48.5%)<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map</a>
 
 
 #### Collections
