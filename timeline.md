@@ -41,7 +41,7 @@ comments: false
 	<div class="direction-l">
 		<div class="flag-wrapper">
 			<span class="flag">Pulse Labs AI</span>
-			<span class="time-wrapper"><span class="time">2021 - Present</span></span>
+			<span class="time-wrapper"><span class="time">2021 - 2023</span></span>
 		</div>
 		<div class="desc">Research Scientist (Remotely)</div>
 	</div>
