@@ -160,7 +160,7 @@ comments: false
 Refer the timeline above for graphic visualization! 
 
 #### Canada (Summers 2023-Present)
-I started as a Postdoctoral researcher at MILA, University of Montreal (HEC Montreal) and ElementAI ServiceNow Research, Montreal, Quebec, Canada.
+I started as a Postdoctoral Researcher at MILA, University of Montreal (HEC Montreal) and ElementAI ServiceNow Research, Montreal, Quebec, Canada.
 
 #### India (1992-2016, Summers 2020-2023)
 I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">Mathematics and Computing</a> (2015 batch) from <a href="http://www.iitd.ac.in/">Indian Institute of Technology (IIT), Delhi </a>. 
@@ -169,7 +169,7 @@ I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">
 Thereafter, I worked as a <strong>Data Scientist</strong> for a year in <a href="http://trulymadly.com/">TrulyMaldy Matchmakers Pvt. Ltd.</a>, in the online dating domain.
 <br />
 <br />
-I also working as a Research Scientist at Pulse Labs remotely for 2 years.
+I also worked as a Research Scientist at PulseLabs AI remotely.
 
 #### US (Summers 2019)
 I spent nice summers'19 in beautiful California at Adobe Research, San Jose, CA, US. 
