@@ -22,9 +22,13 @@ comments: false
  
  <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:600px;width:500px;font:25px/30px;font-face: Inherit; overflow:auto;">
 
-⭐️ <span style="font-weight: bold;">[Sept 2021]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Finally a Doctor! 
+⭐️ <span style="font-weight: bold;">[July 2023]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Visiting Researcher at ElementAI ServiceNow Research, Montreal, Canada
 <br />		
-⭐️ <span style="font-weight: bold;">[July 2021]</span>  <span style="color:red;"> ♨️ ♨️</span> Started working as Research Scientist at PulseLabs remotely.  
+⭐️ <span style="font-weight: bold;">[June 2023]</span>  <span style="color:red;"> ♨️ ♨️</span> Started working as Postdoctoral Researcher at MILA, Quebec, Canada. Also affiliated to HEC Montreal (B-school of University of Montreal)
+<br />		
+[Sept 2021] Awarded the PhD Degree! Wohooo!
+<br />		
+[July 2021] Started working as Research Scientist at PulseLabs remotely
 <br />	
 [June 2021] I am reviewing for ICLR'23, NeurIPS'22, ICML'22, ICLR'22, ICLR'21, NeurIPS'21, ACL'21, EMNLP'21, EACL'21, DSTC9'21 (AAAI'21), NeurIPS'20 (WS), ACL'20 demo, COLING'20, INLG'20 (WS), IJCAI'20, HAI'20.
 <br />		
