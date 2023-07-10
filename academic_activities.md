@@ -24,9 +24,13 @@ This page is not actively maintained. Kindly see my pages for the latest academi
 
 * ORCID -> [Link](https://orcid.org/0000-0002-2977-9615)
 
-Below information is pre-2020!
-
 ### Teaching Experience
+
+* Spring 2018, 2020: Conversational Agents 
+<br />Supervisor: Prof Oliver Lemon and Prof. Verena Rieser at Edinburgh Center of Robotics, UK 
+
+* Summer 2019: 1st AthNLP summer school, Athens, Greece 
+<br />Supervisor: Dr. Ioannis Konstas
 
 * Second Semester 2014-15: Undergraduate Teaching Assistant for the course [Differential Equations: Theory and Computations](http://web.iitd.ac.in/~vvksrini/Oldhomepage/). 
 <br />Supervisor: [Dr. VVK Srinivas Kumar](http://web.iitd.ac.in/~vvksrini/vvksrini/)
@@ -42,6 +46,18 @@ Below information is pre-2020!
 
 ### Work Experience
 
+<strong>Visiting Researcher </strong> at ServiceNow Research, Montreal, QC, Canada
+<br />(July, 2023 - Present)
+
+* Working on Multi document summarization and dialog systems for science reviews
+
+
+<strong>Research Scientist </strong> at PulseLabs AI (remotely)
+<br />(July, 2021- June, 2023)
+
+* Worked on the UX platform for acquisition and analysis of human behavioural data and their engagement with latest technology such as ChatGPT. 
+* Integrated ChatGPT based insights and search into the product as well as worked on interactive dashboards
+
 <strong>Data Scientist </strong> at [TrulyMadly Matchmakers Pvt. Ltd.](http://trulymadly.com/)
 New Delhi, India
 <br /><i>Guided by Prof. [Mausam](http://homes.cs.washington.edu/~mausam/) (Dept. of Computer Science, IIT Delhi) </i> 
@@ -56,8 +72,8 @@ New Delhi, India
 
 * <strong> Adobe Research, San Jose, CA, US </strong>
 <br /><strong><i>Visually Grounded Dialog</i></strong>
-<br /> Wtih Dr. Trung Bui and Dr. Joon-Young Lee
-<br />(May, 2019 - Aug, 2019)
+<br /> Wtih [Dr. Trung Bui](https://sites.google.com/site/trungbuistanford/) and [Dr. Joon-Young Lee](https://joonyoung-cv.github.io/)
+<br />(May, 2019 - Aug, 2019 and Summers 2020)
 
 * <strong> Xerox Research Center Europe (XRCE), Grenoble, France </strong>
 <br /><strong><i>Deep Recurrent Neural Networks for Sequence Prediction</i></strong>
