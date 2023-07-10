@@ -31,6 +31,8 @@ Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distanc
 <h2> Quick background </h2>
 Current: MILA | ServiceNow Research | University of Montreal (HEC Montreal)
 <br />
+Advisors: Prof. Chris Pal (MILA, ServiceNow), Dr. Laurent Charlin (MILA) and Dr. Issam Laradji (ServiceNow)
+<br />
 <br />
 Past: @PulselabsAI | @AdobeResearch | @GSoC | @XRCE | @TrulyMadly | @IITDelhi
 <br />
