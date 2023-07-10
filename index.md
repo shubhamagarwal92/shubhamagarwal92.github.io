@@ -22,12 +22,17 @@ image:
 
 Deep Learning, Conversational AI, Natural Language Processing (NLP), Vision and Language, Multimodal Dialog, Visual Dialog
 <br />
+<br />
 I am particularly interested in Deep Learning and its interdisciplinary applications (V&L). Check out <a href="https://github.com/shubhamagarwal92">Github </a> for my latest activity. 
-
+<br />
+<br />
 Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distance/shubham-agarwal-0001/paul-erdos"> here</a>. 
 
 <h2> Quick background </h2>
-Past: @AdobeResearch | @GSoC | @XRCE | @IITDelhi
+Current: MILA | ServiceNow Research | University of Montreal (HEC Montreal)
+<br />
+<br />
+Past: @Pulselabs | @AdobeResearch | @GSoC | @XRCE | @TrulyMadly | @IITDelhi
 <br />
 <br />
 Past Research Challenges: Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialog Challenge' 18 | NLE @ E2E NLG Challenge' 17
