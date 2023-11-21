@@ -29,7 +29,7 @@ I am particularly interested in Deep Learning and its interdisciplinary applicat
 Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distance/shubham-agarwal-0001/paul-erdos"> here</a>. 
 
 <h2> Quick background </h2>
-Current: [MILA]([https://mila.quebec/](https://mila.quebec/en/person/shubham-agarwal/)) | [ServiceNow Research](https://www.servicenow.com/research/partners/mila.html) | [University of Montreal (HEC Montreal)](https://www.hec.ca/). 
+Current: [MILA](https://mila.quebec/en/person/shubham-agarwal/) | [ServiceNow Research](https://www.servicenow.com/research/partners/mila.html) | [University of Montreal (HEC Montreal)](https://www.hec.ca/). 
 
 Advised by: <a href="https://sites.google.com/view/christopher-pal">Prof. Chris Pal</a> (MILA, ServiceNow), <a href="http://www.cs.toronto.edu/~lcharlin/">Dr. Laurent Charlin</a> (MILA) and <a href="https://issamlaradji.github.io/"> Dr. Issam Laradji</a> (ServiceNow)
 <br />
