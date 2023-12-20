@@ -20,7 +20,7 @@ image:
 
 <h2> Research Interest </h2>
 
-Deep Learning, Conversational AI, Natural Language Processing (NLP), Vision and Language, Multimodal Dialog, Visual Dialog
+Deep Learning, Large Language Models (LLMs), Natural Language Processing (NLP), Vision and Language, Conversational AI, Multimodal Dialog, Visual Dialog
 <br />
 <br />
 I am particularly interested in Deep Learning and its interdisciplinary applications (V&L). Check out <a href="https://github.com/shubhamagarwal92">Github </a> for my latest activity. 
@@ -56,6 +56,8 @@ My research mostly focuses on visual grounding (symbol grounding) and context mo
 In case you are wondering, yes I have been to all these places! Yes, we own the copyright of these pictures! The images are from Death Valley, Yosemite (US), Northen lights in Iceland, Malta, Hawaii, Croatia, Vienna, Edinburgh. 
 
 #### Countries visited
+
+I have been to 4 continents and 33 countries. 
 
 <img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:999999999999999999999999999999999&chld=IN|US|GB|VA|CH|ES|SK|PT|NL|MC|MT|IT|IS|HU|GR|DE|FR|FI|DK|CZ|HR|BE|AT|MV|VN|SG|TH|AE|CA|PE|CR|MX|PA" width="450" height="300" ><br/>visited 33 countries (14.6%)<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of The World</a>
 
