@@ -11,13 +11,24 @@ comments: false
 
 <ul class="timeline">
 
+<!-- Item 13 -->
+<li>
+	<div class="direction-r">
+		<div class="flag-wrapper">
+			<span class="flag">Krutrim AI</span>
+			<span class="time-wrapper"><span class="time">2024 - Present</span></span>
+		</div>
+		<div class="desc">Staff Research Scientist (Bangalore, India)</div>
+	</div>
+</li>
+
 
 <!-- Item 12 -->
 <li>
 	<div class="direction-l">
 		<div class="flag-wrapper">
 			<span class="flag">ServiceNow Research</span>
-			<span class="time-wrapper"><span class="time">2023 - Present</span></span>
+			<span class="time-wrapper"><span class="time">2023 - 2024</span></span>
 		</div>
 		<div class="desc">Visiting Researcher (Montreal, QC, Canada)</div>
 	</div>
@@ -29,7 +40,7 @@ comments: false
 	<div class="direction-r">
 		<div class="flag-wrapper">
 			<span class="flag">MILA</span>
-			<span class="time-wrapper"><span class="time">2023 - Present</span></span>
+			<span class="time-wrapper"><span class="time">2023 - 2024</span></span>
 		</div>
 		<div class="desc">Postdoctoral Researcher (Montreal, QC, Canada)</div>
 	</div>
@@ -159,17 +170,22 @@ comments: false
 
 Refer the timeline above for graphic visualization! 
 
-#### Canada (Summers 2023-Present)
-I started as a Postdoctoral Researcher at MILA, University of Montreal (HEC Montreal) and ElementAI ServiceNow Research, Montreal, Quebec, Canada.
 
-#### India (1992-2016, Summers 2020-2023)
+#### India (1992-2016, 2020-2023, 2024-2025)
 I graduated with 5 year Integrated M.Tech in <a href="http://maths.iitd.ac.in/">Mathematics and Computing</a> (2015 batch) from <a href="http://www.iitd.ac.in/">Indian Institute of Technology (IIT), Delhi </a>. 
 <br />
 <br />
 Thereafter, I worked as a <strong>Data Scientist</strong> for a year in <a href="http://trulymadly.com/">TrulyMaldy Matchmakers Pvt. Ltd.</a>, in the online dating domain.
 <br />
 <br />
-I also worked as a Research Scientist at PulseLabs AI remotely.
+I also worked as a Research Scientist at PulseLabs AI remotely between 2021 and 2023.
+<br />
+<br />
+After my PostDoc, I joined Krutrim AI as a Staff Research Scientist. 
+
+#### Canada (2023-2024)
+I was as a Postdoctoral Researcher at MILA, University of Montreal (HEC Montreal) and a Visiting Researcher at ElementAI ServiceNow Research, Montreal, Quebec, Canada.
+
 
 #### US (Summers 2019)
 I spent nice summers'19 in beautiful California at Adobe Research, San Jose, CA, US. 
