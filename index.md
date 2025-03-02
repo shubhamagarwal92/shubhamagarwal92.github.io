@@ -20,7 +20,7 @@ image:
 
 <h2> Research Interest </h2>
 
-Deep Learning, Large Language Models (LLMs), Natural Language Processing (NLP), Vision and Language, Conversational AI, Multimodal Dialog, Visual Dialog
+Large Language Models (LLMs), Multimodal LLMs, Frontier / Foundation Models, Vision and Language, Natural Language Processing (NLP), Conversational AI, Multimodal Dialog
 <br />
 <br />
 I am particularly interested in Deep Learning and its interdisciplinary applications (V&L). Check out <a href="https://github.com/shubhamagarwal92">Github </a> for my latest activity. 
@@ -29,7 +29,10 @@ I am particularly interested in Deep Learning and its interdisciplinary applicat
 Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distance/shubham-agarwal-0001/paul-erdos"> here</a>. 
 
 <h2> Quick background </h2>
-Current: [MILA](https://mila.quebec/en/person/shubham-agarwal/) | [ServiceNow Research](https://www.servicenow.com/research/partners/mila.html) | [University of Montreal (HEC Montreal)](https://www.hec.ca/). 
+
+Current: [Krutrim AI](https://ai-labs.olakrutrim.com/) - building foundation models for India 
+<br />
+Previous: [MILA](https://mila.quebec/en/person/shubham-agarwal/) | [ServiceNow Research](https://www.servicenow.com/research/partners/mila.html) | [University of Montreal (HEC Montreal)](https://www.hec.ca/). 
 
 Advised by: <a href="https://sites.google.com/view/christopher-pal">Prof. Chris Pal</a> (MILA, ServiceNow), <a href="http://www.cs.toronto.edu/~lcharlin/">Dr. Laurent Charlin</a> (MILA) and <a href="https://issamlaradji.github.io/"> Dr. Issam Laradji</a> (ServiceNow)
 <br />
@@ -37,11 +40,11 @@ Advised by: <a href="https://sites.google.com/view/christopher-pal">Prof. Chris 
 Past: @PulselabsAI | @AdobeResearch | @GSoC | @XRCE | @TrulyMadly | @IITDelhi
 <br />
 <br />
-Past Research Challenges: Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialog Challenge' 18 | NLE @ E2E NLG Challenge' 17
+Past Research Challenges: 007 @ English-to-lowres Multimodal Machine Translation Task' 24 | Alana @ Alexa Prize Socialbot Challenge' 18 | Pikabot @ Visual Dialog Challenge' 18 | NLE @ E2E NLG Challenge' 17
 
 <h2> Bio </h2>
-  
-My research mostly focuses on visual grounding (symbol grounding) and context modeling (communicative grounding) in multi-modal visual conversational agents. I am interested to build machines that can see and talk. My research interests broadly span multi-modal representation and transfer learning for vision and language problems. Previously I also explored Natural Language Generation for data-to-text and knowledge grounded multi-modal dialog response generation. I was an integral part of Team Alana - finalists to Amazon’s Alexa Prize Socialbot Grand Challenge 2018. My submission was also the runner-up for the Visual Dialog Challenge 2018 (Pikabot) and E2E NLG Challenge 2017 (NLE). I am an active blogger, often contributing to open-source repositories for the democratization of AI. I also co-organized the Workshop on Evaluating NLG Evaluation (EvalNLGEval at INLG'20) and Workshop on Human Evaluation of NLP Systems (HumEval at EACL'21); served on the Program Committee for NeurIPS and ACL workshops; reviewed for NLP/AI conferences (NeurIPS, ICML, ICLR, ACL, COLING), and published at top NLP conferences such as ACL, EACL, EMNLP, INLG, SIGDial. 
+
+My research interests lie in training frontier models while I am keenly interested in visual grounding (symbol grounding) and context modeling (communicative grounding) in multi-modal visual conversational agents. I am interested to build machines that can see and talk. My research interests broadly span multi-modal representation and transfer learning for vision and language problems. Previously I also explored Natural Language Generation for data-to-text and knowledge grounded multi-modal dialog response generation. I was an integral part of Team Alana - finalists to Amazon’s Alexa Prize Socialbot Grand Challenge 2018. My submission was also the runner-up for the Visual Dialog Challenge 2018 (Pikabot) and E2E NLG Challenge 2017 (NLE). I am an active blogger, often contributing to open-source repositories for the democratization of AI. I also co-organized the Workshop on Evaluating NLG Evaluation (EvalNLGEval at INLG'20) and Workshop on Human Evaluation of NLP Systems (HumEval at EACL'21); served on the Program Committee for NeurIPS and ACL workshops; reviewed for NLP/AI conferences (NeurIPS, ICML, ICLR, ACL, COLING), and published at top NLP conferences such as CVPR, ICLR, ACL, NeurIPS, EACL, EMNLP, INLG, SIGDial. 
 
 
 <h2> Visitors on the page - Thank you for visiting! </h2>
