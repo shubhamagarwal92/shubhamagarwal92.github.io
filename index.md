@@ -30,10 +30,10 @@ Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distanc
 
 <h2> Quick background </h2>
 
-Current: [Krutrim AI](https://ai-labs.olakrutrim.com/) - building foundation models for India 
+Current: Staff Research Scientist at [Krutrim AI](https://ai-labs.olakrutrim.com/) - building foundation models for India 
 <br />
 <br />
-Previous: [MILA](https://mila.quebec/en/person/shubham-agarwal/) | [ServiceNow Research](https://www.servicenow.com/research/partners/mila.html) | [University of Montreal (HEC Montreal)](https://www.hec.ca/). 
+Previous: Postdoc at [MILA](https://mila.quebec/en/person/shubham-agarwal/) | [ServiceNow Research](https://www.servicenow.com/research/partners/mila.html) | [University of Montreal (HEC Montreal)](https://www.hec.ca/). 
 
 Advised by: <a href="https://sites.google.com/view/christopher-pal">Prof. Chris Pal</a> (MILA, ServiceNow), <a href="http://www.cs.toronto.edu/~lcharlin/">Dr. Laurent Charlin</a> (MILA) and <a href="https://issamlaradji.github.io/"> Dr. Issam Laradji</a> (ServiceNow)
 <br />
@@ -61,13 +61,15 @@ In case you are wondering, yes I have been to all these places! Yes, we own the 
 
 #### Countries visited
 
-I have been to 4 continents and 33 countries. 
+I have been to 4 continents and 34 countries. 
 
 <img src="https://douwe.com/projects/visited/world.png?selected=IN,MV,MY,SG,TH,VN,AT,BE,CH,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IS,IT,MC,MT,NL,PT,SK,VA,AE,CA,CR,MX,PA,US,PE" width="720" height="400" ><br/>
 visited 34 states (15.67%)
 <br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of The World</a>
 
-<img src="http://chart.apis.google.com/chart?cht=map:fixed=8,65,37,98&chs=400x400&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:99999999999999999&chld=IN-GA|IN-UL|IN-UP|IN-WB|IN-SK|IN-RJ|IN-PB|IN-OR|IN-MH|IN-KL|IN-KA|IN-HP|IN-HR|IN-AP|IN-CH|IN-DL|IN-JK" width="600" height="350" ><br/>visited 17 states (48.5%)<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of Indian states</a>
+<img src="https://douwe.com/projects/visited/india.png?selected=TG,AP,CH,DL,GA,GJ,HR,HP,JK,KA,KL,MH,OR,PB,RJ,SK,TN,UP,UL,WB" width="720" height="400" ><br/>
+visited 20 states (55.56%)
+<br/>Try <a href="https://douwe.com/projects/visited?region=world">Create your own visited map of Indian states</a>
 
 
 #### Collections
