@@ -22,9 +22,17 @@ comments: false
  
  <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:700px;width:700px;font:25px/30px;font-face: Inherit; overflow:auto;">
 
-⭐️ <span style="font-weight: bold;">[July 2023]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Started as Visiting Researcher at ElementAI ServiceNow Research, Montreal, Canada
+⭐️ <span style="font-weight: bold;">[Feb 2023]</span>  <span style="color:red;"> !NEW! ♨️ ♨️</span> Papers accepted at ICLR'25, CVPR'25 and TMLR'25. 
 <br />		
-⭐️ <span style="font-weight: bold;">[June 2023]</span>  <span style="color:red;"> ♨️ ♨️</span> Started working as Postdoctoral Researcher at MILA, Quebec, Canada. Also affiliated to HEC Montreal (University of Montreal's B-school)
+[Dec 2024] I am attending NeurIPS 2024 where I will be presenting our work at MAR workshop. 
+<br />		
+[Now 2024] I am attending EMNLP 2024. Our submission is the winning entry for English-to-lowres Multimodal Translation Task
+<br />		
+[April 2024] Started working as Staff Research Scientist at Krutrim AI. Building multilingual foundation multimodal models for Indic languages.
+<br />	
+[July 2023] Started as Visiting Researcher at ElementAI ServiceNow Research, Montreal, Canada
+<br />	
+[June 2023] Started working as Postdoctoral Researcher at MILA, Quebec, Canada. Also affiliated to HEC Montreal (University of Montreal's B-school)
 <br />		
 [Sept 2021] Awarded the PhD Degree! Wohooo!
 <br />		
