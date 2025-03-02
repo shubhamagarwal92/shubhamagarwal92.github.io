@@ -32,6 +32,7 @@ Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distanc
 
 Current: [Krutrim AI](https://ai-labs.olakrutrim.com/) - building foundation models for India 
 <br />
+<br />
 Previous: [MILA](https://mila.quebec/en/person/shubham-agarwal/) | [ServiceNow Research](https://www.servicenow.com/research/partners/mila.html) | [University of Montreal (HEC Montreal)](https://www.hec.ca/). 
 
 Advised by: <a href="https://sites.google.com/view/christopher-pal">Prof. Chris Pal</a> (MILA, ServiceNow), <a href="http://www.cs.toronto.edu/~lcharlin/">Dr. Laurent Charlin</a> (MILA) and <a href="https://issamlaradji.github.io/"> Dr. Issam Laradji</a> (ServiceNow)
@@ -62,7 +63,9 @@ In case you are wondering, yes I have been to all these places! Yes, we own the 
 
 I have been to 4 continents and 33 countries. 
 
-<img src="http://chart.apis.google.com/chart?cht=map:fixed=-70,-180,80,180&chs=450x300&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:999999999999999999999999999999999&chld=IN|US|GB|VA|CH|ES|SK|PT|NL|MC|MT|IT|IS|HU|GR|DE|FR|FI|DK|CZ|HR|BE|AT|MV|VN|SG|TH|AE|CA|PE|CR|MX|PA" width="450" height="300" ><br/>visited 33 countries (14.6%)<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of The World</a>
+<img src="https://douwe.com/projects/visited/world.png?selected=IN,MV,MY,SG,TH,VN,AT,BE,CH,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IS,IT,MC,MT,NL,PT,SK,VA,AE,CA,CR,MX,PA,US,PE" width="720" height="400" ><br/>
+visited 34 states (15.67%)
+<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of The World</a>
 
 <img src="http://chart.apis.google.com/chart?cht=map:fixed=8,65,37,98&chs=400x400&chf=bg,s,336699&chco=d0d0d0,cc0000&chd=s:99999999999999999&chld=IN-GA|IN-UL|IN-UP|IN-WB|IN-SK|IN-RJ|IN-PB|IN-OR|IN-MH|IN-KL|IN-KA|IN-HP|IN-HR|IN-AP|IN-CH|IN-DL|IN-JK" width="600" height="350" ><br/>visited 17 states (48.5%)<br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of Indian states</a>
 
