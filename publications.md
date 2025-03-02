@@ -20,7 +20,6 @@ TMLR 2025
 
 * [BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks](https://arxiv.org/pdf/2412.04626) <br />
 Juan Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi, Abhay Puri, Akshay Kalkunte, François Savard, Ahmed Masry, Shravan Nayak, Rabiul Awal, Mahsa Massoud, Amirhossein Abaskohi, Zichao Li, Suyuchen Wang, Pierre-André Noël, Mats Leon Richter, Saverio Vadacchino, Shubbam Agarwal, Sanket Biswas, Sara Shanian, Ying Zhang, Noah Bolger, Kurt MacDonald, Simon Fauvel, Sathwik Tejaswi, Srinivas Sunkara, Joao Monteiro, Krishnamurthy DJ Dvijotham, Torsten Scholak, Nicolas Chapados, Sepideh Kharagani, Sean Hughes, M Ozsu, Siva Reddy, Marco Pedersoli, Yoshua Bengio, Christopher Pal, Issam Laradji, Spandanna Gella, Perouz Taslakian, David Vazquez, and Sai Rajeswar <br />
-<br />
 ICLR 2025
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2412.04626)
@@ -53,7 +52,6 @@ MAR, NeurIPS 2024
 
 * [LitLLM: A Toolkit for Scientific Literature Review](https://arxiv.org/pdf/2402.01788) <br />
 Shubham Agarwal, Issam H Laradji, Laurent Charlin and Christopher Pal <br />
-<br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2402.01788)
 [<button type="button" class="btn btn-danger">Video</button>](https://youtu.be/E2ggOZBAFw0)
 
