@@ -10,6 +10,54 @@ image:
 title: Recent Publications
 ---
 
+### 2025
+
+* [LLMs for Literature Review: Are we there yet?](https://arxiv.org/abs/2412.15249) <br />
+Shubham Agarwal, Gaurav Sahu, Abhay Puri, Issam H Laradji, Krishnamurthy DJ Dvijotham, Jason Stanley, Laurent Charlin and Christopher Pal <br />
+TMLR 2025
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2412.15249)
+
+* [BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks](https://arxiv.org/pdf/2412.04626) <br />
+Juan Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi, Abhay Puri, Akshay Kalkunte, François Savard, Ahmed Masry, Shravan Nayak, Rabiul Awal, Mahsa Massoud, Amirhossein Abaskohi, Zichao Li, Suyuchen Wang, Pierre-André Noël, Mats Leon Richter, Saverio Vadacchino, Shubbam Agarwal, Sanket Biswas, Sara Shanian, Ying Zhang, Noah Bolger, Kurt MacDonald, Simon Fauvel, Sathwik Tejaswi, Srinivas Sunkara, Joao Monteiro, Krishnamurthy DJ Dvijotham, Torsten Scholak, Nicolas Chapados, Sepideh Kharagani, Sean Hughes, M Ozsu, Siva Reddy, Marco Pedersoli, Yoshua Bengio, Christopher Pal, Issam Laradji, Spandanna Gella, Perouz Taslakian, David Vazquez, and Sai Rajeswar <br />
+<br />
+ICLR 2025
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2412.04626)
+
+* [StarVector: Generating Scalable Vector Graphics Code from Images and Text](https://arxiv.org/pdf/2312.11556) <br />
+Juan A Rodriguez, Abhay Puri, Shubham Agarwal, Issam H Laradji, Pau Rodriguez, Sai Rajeswar, David Vazquez, Christopher Pal and Marco Pedersoli
+<br />
+CVPR 2025
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2412.04626)
+
+
+### 2024
+
+* [Chitranuvad: Adapting Multi-Lingual LLMs for Multimodal Translation](https://aclanthology.org/2024.wmt-1.80.pdf) <br />
+Shaharukh Khan, Ayush Tarun, Ali Faraz, Palash Kamble, Vivek Dahiya, Praveen Pokala, Ashish Kulkarni, Chandra Khatri, Abhinav Ravi, Shubham Agarwal <br />
+WMT, EMNLP 2024
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://aclanthology.org/2024.wmt-1.80.pdf)
+
+* [Chitrarth: Bridging Vision and Language for a Billion People](https://arxiv.org/pdf/2502.15392) <br />
+Shaharukh Khan, Ayush Tarun, Abhinav Ravi, Ali Faraz, Praveen Kumar Pokala, Anagha Bhangare, Raja Kolla, Chandra Khatri, Shubham Agarwal
+<br />
+MAR, NeurIPS 2024
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2502.15392)
+
+
+### 2023
+
+* [LitLLM: A Toolkit for Scientific Literature Review](https://arxiv.org/pdf/2402.01788) <br />
+Shubham Agarwal, Issam H Laradji, Laurent Charlin and Christopher Pal <br />
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2402.01788)
+[<button type="button" class="btn btn-danger">Video</button>](https://youtu.be/E2ggOZBAFw0)
+
+
 ### 2022
 
 * [To show or not to show: Redacting sensitive text from videos of electronic displays](https://arxiv.org/abs/2208.10270) <br />
