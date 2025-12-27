@@ -61,10 +61,10 @@ In case you are wondering, yes I have been to all these places! Yes, we own the 
 
 #### Countries visited
 
-I have been to 4 continents and 34 countries. 
+I have been to 4 continents and 37 countries. 
 
-<img src="https://douwe.com/projects/visited/world.png?selected=IN,MV,MY,SG,TH,VN,AT,BE,CH,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IS,IT,MC,MT,NL,PT,SK,VA,AE,CA,CR,MX,PA,US,PE" width="720" height="400" ><br/>
-visited 34 states (15.67%)
+<img src="https://douwe.com/projects/visited/world.png?selected=HK,IN,MO,MV,MY,SG,TH,TW,VN,AT,BE,CH,CZ,DE,DK,ES,FI,FR,GB,GR,HR,HU,IS,IT,MC,MT,NL,PT,SK,VA,AE,CA,CR,MX,PA,US,PE" width="720" height="400" ><br/>
+visited 37 states (17.05%)
 <br/> <a href="https://douwe.com/projects/visited?region=world"> Create your own visited map of The World</a>
 
 <img src="https://douwe.com/projects/visited/india.png?selected=TG,AP,CH,DL,GA,GJ,HR,HP,JK,KA,KL,MH,OR,PB,RJ,SK,TN,UP,UL,WB" width="720" height="400" ><br/>
