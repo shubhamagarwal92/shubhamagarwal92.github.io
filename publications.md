@@ -11,11 +11,40 @@ title: Recent Publications
 ---
 
 ### 2026
+
+* [MUTANT: A Recipe for Multilingual Tokenizer Design](https://arxiv.org/pdf/2511.03237) <br />
+Souvik Rana, Arul Menezes, Ashish Kulkarni, Chandra Khatri, Shubham Agarwal <br />
+ACL 2026
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2511.03237)
+
+* [IndicVisionBench: Benchmarking Cultural and Multilingual Understanding in VLMs](https://arxiv.org/pdf/2511.04727) <br />
+Ali Faraz, Shaharukh Khan, Raja Kolla, Akshat Patidar, Suranjan Goswami, Abhinav Ravi, Chandra Khatri, Shubham Agarwal <br />
+ICLR 2026
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2511.04727)
+
 * [BhashaKritika: Building Synthetic Pretraining Data at Scale for Indic Languages](https://arxiv.org/pdf/2511.10338) <br />
 Guduru Manoj, Neel Prabhanjan Rachamalla, Ashish Kulkarni, Gautam Rajeev, Jay Piplodiya, Arul Menezes, Shaharukh Khan, Souvik Rana, Manya Sah, Chandra Khatri, Shubham Agarwal <br />
 AAAI 2026
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2511.10338)
+
+* [Designing Production-Scale OCR for India: Multilingual and Domain-Specific Systems](https://arxiv.org/pdf/2602.16430) <br />
+Ali Faraz, Raja Kolla, Ashish Kulkarni, Shubham Agarwal <br />
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2602.16430)
+
+* [Seeing Straight: Document Orientation Detection for Efficient OCR](https://arxiv.org/pdf/2511.04161) <br />
+Suranjan Goswami, Abhinav Ravi, Raja Kolla, Ali Faraz, Shaharukh Khan, Chandra Khatri, Shubham Agarwal <br />
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2511.04161)
+
+* [VoiceAgentBench: Are Voice Assistants ready for agentic tasks?](https://arxiv.org/pdf/2510.07978) <br />
+Dhruv Jain, Harshit Shukla, Gautam Rajeev, Ashish Kulkarni, Chandra Khatri, Shubham Agarwal <br />
+<br />
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2510.07978)
+
 
 
 ### 2025
