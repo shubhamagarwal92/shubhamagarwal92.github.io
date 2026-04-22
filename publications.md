@@ -79,6 +79,7 @@ Shaharukh Khan, Ali Faraz, Abhinav Ravi, Mohd Nauman, Mohd Sarfraz, Akshat Patid
 VLMs4ALL, CVPR 2025
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://openreview.net/pdf?id=CHrzyIKfPd)
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1GXXLhhy-LvIY_ew972zA25b-QECnquv9/view?usp=sharing)
 
 
 * [LLMs for Literature Review: Are we there yet?](https://arxiv.org/abs/2412.15249) <br />
@@ -94,6 +95,7 @@ Shaharukh Khan, Ayush Tarun, Ali Faraz, Palash Kamble, Vivek Dahiya, Praveen Pok
 WMT, EMNLP 2024
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://aclanthology.org/2024.wmt-1.80.pdf)
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1NjuhmyKoCfXHRFu6AN96fnHRzh1hypHm/view?usp=sharing)
 
 * [Chitrarth: Bridging Vision and Language for a Billion People](https://arxiv.org/pdf/2502.15392) <br />
 Shaharukh Khan, Ayush Tarun, Abhinav Ravi, Ali Faraz, Praveen Kumar Pokala, Anagha Bhangare, Raja Kolla, Chandra Khatri, Shubham Agarwal
@@ -101,7 +103,7 @@ Shaharukh Khan, Ayush Tarun, Abhinav Ravi, Ali Faraz, Praveen Kumar Pokala, Anag
 MAR, NeurIPS 2024
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2502.15392)
-
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1qW_wIOgmtnu540-tBtU5xsvTNUsieQnU/view?usp=sharing)
 
 ### 2023
 
