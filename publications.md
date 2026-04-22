@@ -23,6 +23,8 @@ Ali Faraz, Shaharukh Khan, Raja Kolla, Akshat Patidar, Suranjan Goswami, Abhinav
 ICLR 2026
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/pdf/2511.04727)
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1eV5P2mvcFUh5x9q322-OJHmHHveG6tlD/view?usp=sharing)
+
 
 * [BhashaKritika: Building Synthetic Pretraining Data at Scale for Indic Languages](https://arxiv.org/pdf/2511.10338) <br />
 Guduru Manoj, Neel Prabhanjan Rachamalla, Ashish Kulkarni, Gautam Rajeev, Jay Piplodiya, Arul Menezes, Shaharukh Khan, Souvik Rana, Manya Sah, Chandra Khatri, Shubham Agarwal <br />
@@ -55,6 +57,8 @@ Neel Prabhanjan Rachamalla, Aravind Konakalla, Gautam Rajeev, Ashish Kulkarni, C
 MRL, EMNLP 2025
 <br />
 [<button type="button" class="btn btn-info">Paper</button>](https://aclanthology.org/2025.mrl-main.20.pdf)
+[<button type="button" class="btn btn-warning">Poster</button>](https://drive.google.com/file/d/1HB8TuD6wFH_ZahE6q9BqzlGYve0f-PJM/view?usp=sharing)
+
 
 * [BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks](https://arxiv.org/pdf/2412.04626) <br />
 Juan Rodriguez, Xiangru Jian, Siba Smarak Panigrahi, Tianyu Zhang, Aarash Feizi, Abhay Puri, Akshay Kalkunte, François Savard, Ahmed Masry, Shravan Nayak, Rabiul Awal, Mahsa Massoud, Amirhossein Abaskohi, Zichao Li, Suyuchen Wang, Pierre-André Noël, Mats Leon Richter, Saverio Vadacchino, Shubbam Agarwal, Sanket Biswas, Sara Shanian, Ying Zhang, Noah Bolger, Kurt MacDonald, Simon Fauvel, Sathwik Tejaswi, Srinivas Sunkara, Joao Monteiro, Krishnamurthy DJ Dvijotham, Torsten Scholak, Nicolas Chapados, Sepideh Kharagani, Sean Hughes, M Ozsu, Siva Reddy, Marco Pedersoli, Yoshua Bengio, Christopher Pal, Issam Laradji, Spandanna Gella, Perouz Taslakian, David Vazquez, and Sai Rajeswar <br />
