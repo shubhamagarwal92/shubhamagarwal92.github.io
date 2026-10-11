@@ -20,7 +20,7 @@ image:
 
 <h2> Research Interest </h2>
 
-Large Language Models (LLMs), Multimodal LLMs, Frontier / Foundation Models, Vision and Language, Natural Language Processing (NLP), Conversational AI, Multimodal Dialog
+Large Language Models (LLMs), Multimodal LLMs, Frontier / Foundation Models, Vision and Language, Natural Language Processing (NLP), Conversational AI, Multimodal Dialog, AI x Cybersecurity
 <br />
 <br />
 I am particularly interested in Deep Learning and its interdisciplinary applications (V&L). Check out <a href="https://github.com/shubhamagarwal92">Github </a> for my latest activity. 
@@ -30,10 +30,15 @@ Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distanc
 
 <h2> Quick background </h2>
 
-Current: Staff Research Scientist at [Krutrim AI](https://ai-labs.olakrutrim.com/) - building foundation models for India 
+Current: Founding Team at [Lean Superintelligence](https://lsi.inc/
 <br />
 <br />
-Previous: Postdoc at [MILA](https://mila.quebec/en/person/shubham-agarwal/) | [ServiceNow Research](https://www.servicenow.com/research/partners/mila.html) | [University of Montreal (HEC Montreal)](https://www.hec.ca/). 
+Previous: 
+
+Staff Research Scientist at [Krutrim AI](https://ai-labs.olakrutrim.com/) - building foundation models for India 
+<br />
+<br />
+Postdoc at [MILA](https://mila.quebec/en/person/shubham-agarwal/) | [ServiceNow Research](https://www.servicenow.com/research/partners/mila.html) | [University of Montreal (HEC Montreal)](https://www.hec.ca/). 
 
 Advised by: <a href="https://sites.google.com/view/christopher-pal">Prof. Chris Pal</a> (MILA, ServiceNow), <a href="http://www.cs.toronto.edu/~lcharlin/">Dr. Laurent Charlin</a> (MILA) and <a href="https://issamlaradji.github.io/"> Dr. Issam Laradji</a> (ServiceNow)
 <br />
