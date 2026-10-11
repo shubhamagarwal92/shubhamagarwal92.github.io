@@ -11,12 +11,25 @@ comments: false
 
 <ul class="timeline">
 
+<!-- Item 14 -->
+<li>
+	<div class="direction-l">
+		<div class="flag-wrapper">
+			<span class="flag">Lean Superintelligence</span>
+			<span class="time-wrapper"><span class="time">2026 - Present</span></span>
+		</div>
+		<div class="desc">Founding Team (Remote, India)</div>
+	</div>
+</li>
+
+
+
 <!-- Item 13 -->
 <li>
 	<div class="direction-r">
 		<div class="flag-wrapper">
 			<span class="flag">Krutrim AI</span>
-			<span class="time-wrapper"><span class="time">2024 - Present</span></span>
+			<span class="time-wrapper"><span class="time">2024 - 2026</span></span>
 		</div>
 		<div class="desc">Staff Research Scientist (Bangalore, India)</div>
 	</div>
