@@ -30,7 +30,7 @@ Fun fact: My Erdős number is 4. See  <a href="https://www.csauthors.net/distanc
 
 <h2> Quick background </h2>
 
-Current: Founding Team at [Lean Superintelligence](https://lsi.inc/
+Current: Founding Team at [Lean Superintelligence](https://lsi.inc/)
 <br />
 <br />
 Previous: 
